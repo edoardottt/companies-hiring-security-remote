@@ -26,7 +26,7 @@ Company |  Areas hiring remote| Full remote / Regional remote | Source | Job Pos
 | Crowdstrike | Engineering, Intelligence, Information Technology, Legal, Professional Services, R&D | Full remote / Remote US | [Link](https://www.crowdstrike.com/careers/) | [Link](https://www.crowdstrike.com/careers/) |?|
 | Coalfire Labs  | ?| Full remote / Remote US | [Link](https://www.coalfire.com/Careers) | [Link](https://www.coalfire.com/Careers) |?|
 |Corelight| Multiple | Full Remote | [Corelight Career Page](https://www.corelight.com/company/careers#career-opportunities) | [Link](https://corelight.com/company/careers/1539941), [Link](https://corelight.com/company/careers/1854588/), [Link](https://corelight.com/company/careers/1443209/) | ? |
-|Cruise| All | Full Remote | [Cruise Career Page](getcruise.com/careers/jobs) | [Link](getcruise.com/careers/jobs), [Link](getcruise.com/careers/jobs), [Link](getcruise.com/careers/jobs) | ? |
+|Cruise| All | Full Remote | [Cruise Career Page](https://getcruise.com/careers/jobs/) | [Link](https://getcruise.com/careers/jobs/) | ? |
 |Cybereason| Multiple | US Remote | [Link](https://jobs.cybereason.com/) | [Link](https://corelight.com/company/careers/1539941), [Link](https://corelight.com/company/careers/1854588/), [Link](https://jobs.cybereason.com/) | ? |
 | Datadog |  Some| Full remote |  | [Link](https://www.datadoghq.com/jobs-other/) |?|
 | DataDome |  Some| Full remote (Based in France mainly, some in US) |  | [Link](https://www.welcometothejungle.com/en/companies/datadome/jobs) |?|
@@ -68,14 +68,14 @@ Company |  Areas hiring remote| Full remote / Regional remote | Source | Job Pos
 | Netskope | Some| Full remote | [Link](https://www.netskope.com/company/careers/open-positions) | [Link](https://www.netskope.com/company/careers/open-positions) |?|
 | Nextrons Systems | All| Partially Remote (weekly checkin to the office in DE) | After discussion with [Link](https://twitter.com/cyb3rops) | [Link](https://www.nextron-systems.com/jobs/) |?|
 | Novetta | ?| ? | [Link](https://malicious.link/post/2019/2019-bhdcbslv-hiring-list/) | [Link](https://www.novetta.com/careers/) |?|
-| phobos.io | All| Full remote okay | [Link(https://phobos.io/careers) | [Link](https://phobos.io/careers) |?|
+| phobos.io | All| Full remote okay | [Link](https://phobos.io/careers) | [Link](https://phobos.io/careers) |?|
 | Platform.sh | All| Full remote | [Link](https://twitter.com/uchi_mata/status/1422974742571671554) | [Link](https://platform.sh/company/careers/) |?|
-| Prelude | All | Full remote | [Link(https://www.preludesecurity.com/)| [Link(https://angel.co/company/prelude-1/jobs)                                                                                                                          |?|
+| Prelude | All | Full remote | [Link](https://www.preludesecurity.com/)| [Link](https://angel.co/company/prelude-1/jobs)                                                                                                                          |?|
 | Proofpoint | Some| Regional remote | | [Link](https://proofpoint.wd5.myworkdayjobs.com/ProofpointCareers) |?|
 | Protonmail | Some| Full remote | | [Link](https://careers.proton.me/#positions)|?|
 | US BanK | ?| US Remote | Twitter | [Link](https://usbank.taleo.net) |?|
 | RiskIQ | Some areas| Full remote | Ninjajobs | [Link](https://www.riskiq.com/about/careers/) |?|
-|Recon Infosec|All | Full remote | Career page | [Link](https://www.reconinfosec.com/careers/) | ?|
+|Recon Infosec|All | Full remote | Career page | [Link](https://www.reconinfosec.com/careers/) |?|
 | Recorded Future | Some areas| Full remote | Job Posting | [Link](https://www.recordedfuture.com/careers/#job-post) |No|
 | ReversingLabs | ?| ? | [Link](https://malicious.link/post/2019/2019-bhdcbslv-hiring-list/) | [Link](https://reversinglabs.workable.com) |?|
 | Salesforce | ?| ? | [Link](https://malicious.link/post/2019/2019-bhdcbslv-hiring-list/) | [Link](https://salesforce.wd1.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Cyber-Detection--Response----Threat-Engineers_JR15818-1) |?|
@@ -89,7 +89,7 @@ Company |  Areas hiring remote| Full remote / Regional remote | Source | Job Pos
 | TwelveSec | All| Full remote | [Link](https://twelvesec.com/careers/) | [Link](https://twelvesec.workable.com/) |?|
 | Twilio | Some roles| Full remote | [Link](https://www.twilio.com/de/company/jobs#open-positions) | [Link](https://www.twilio.com/de/company/jobs#open-positions) |?|
 | Unit42 Palo Alto | Research| Full remote | [Link](https://unit42.paloaltonetworks.com/about-unit-42/) | [Link](https://jobs.jobvite.com/paloaltonetworks/jobs/all-jobs) |?|
-| VMRay || Full remote | [Link](https://careers.vmray.com/en/recruiting/) | [Link](hhttps://careers.vmray.com/jobs/) |?|
+| VMRay || Full remote | [Link](https://careers.vmray.com/en/recruiting/) | [Link](https://careers.vmray.com/jobs/) |?|
 | Wells Fargo | | Full remote | [Link](https://malicious.link/post/2019/2019-bhdcbslv-hiring-list/) | [Link](https://employment.wellsfargo.com/) |?|
 | Wikimedia Foundation | | Full remote | [Link](https://wikimediafoundation.org/about/jobs/) | [Link](https://wikimediafoundation.org/about/jobs/) |?|
 | Zero Day | Automotive Security | Regional Remote Central Europe | [Link](https://zer0-day.de/project/linux-security-engineers/) | [Link](https://zer0-day.de/project/) | Case by Case decision |
