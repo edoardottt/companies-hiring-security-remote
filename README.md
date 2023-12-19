@@ -19,15 +19,15 @@ I'm looking for a full remote position (EU)! See [edoardottt.com/cv](https://www
 | Aurora Innovation | Product Security | US Remote | [Link](https://aurora.tech/careers/) | No |
 | Auth0 | All | Full remote okay | [Link](https://auth0.com/careers) | ? |
 | Bishop Fox |  | Some areas | [Link](https://www.bishopfox.com/jobs/) | ? |
-| bill.com |  | Some areas | [Link](https://jobs.lever.co/bill) | ? |
+| bill.com |  | Some areas | [Link](https://www.bill.com/about-us/jobs) | ? |
 | BlackKnight |  | Some areas | [Link](https://blackknight.wd1.myworkdayjobs.com/BKC/0/refreshFacet/318c8bb6f553100021d223d9780d30be) | ? |
-| BreakPoint Labs | Some | Full remote | [Link](http://breakpoint-labs.com/opportunities.php) | ? |
+| BreakPoint Labs | Some | Full remote | [Link](https://jobs.polymer.co/breakpointlabs) | ? |
 | Canonical | Some | Full remote | [Link](https://www.canonical.com/careers/all-vacancies) | ? |
 | Cisco Talos | All | Full remote | [Link](https://www.talosintelligence.com/careers) | ? |
 | Cisco | Some | Full remote | [Link](https://jobs.cisco.com/jobs/SearchJobs) | ? |
 | Crowdstrike | Engineering, Intelligence, Information Technology, Legal, Professional Services, R&D | Full remote / Remote US | [Link](https://www.crowdstrike.com/careers/) | ? |
 | Coalfire Labs | ? | Full remote / Remote US | [Link](https://www.coalfire.com/Careers) | ? |
-| Corelight | Multiple | Full Remote | [Link](https://corelight.com/company/careers/1539941), [Link](https://corelight.com/company/careers/1854588/), [Link](https://corelight.com/company/careers/1443209/) | ? |
+| Corelight | Multiple | Full Remote | [Link](https://corelight.com/company/careers/) | ? |
 | Cruise | All | Full Remote | [Link](https://getcruise.com/careers/jobs/) | ? |
 | Cybereason | Multiple | US Remote | [Link](https://corelight.com/company/careers/1539941), [Link](https://corelight.com/company/careers/1854588/), [Link](https://jobs.cybereason.com/) | ? |
 | Datadog | Some | Full remote | [Link](https://www.datadoghq.com/jobs-other/) | ? |
@@ -38,7 +38,7 @@ I'm looking for a full remote position (EU)! See [edoardottt.com/cv](https://www
 | Dow Jones | On a case by case basis | ? | [Link](https://dowjones.jobs/) | ? |
 | Doyensec | Application Security Engineer | Full remote | [Link](https://www.careers-page.com/doyensec-llc) | ? |
 | DNSFilter | All | Full remote (mainly in US) | No |  |
-| Dragos | Some | US remote | [Link](https://jobs.lever.co/dragos) | ? |
+| Dragos | Some | US remote | [Link](https://careers.dragos.com/jobs) | ? |
 | Elastic | Some roles | Full remote | [Link](https://www.elastic.co/about/careers/#engineering) | ? |
 | Enable Security | Security | Full remote | [Link](https://de.linkedin.com/company/enablesecurity) | ? |
 | Facebook | Some roles | Full remote | [Link](https://www.facebook.com/careers/) | ? |
@@ -57,7 +57,7 @@ I'm looking for a full remote position (EU)! See [edoardottt.com/cv](https://www
 | Inquest | Some | Full US remote okay | [Link](https://inquest.net/) | ? |
 | Intel | Some | Depending on the position | [Link](https://jobs.intel.com/) | ? |
 | Kraken | Most Roles | Full remote | [Link](https://jobs.lever.co/kraken) | ? |
-| Ledn | Some | Full remote | [Link](https://jobs.lever.co/ledn/) | ? |
+| Ledn | Some | Full remote | [Link](https://ledn.io/careers) | ? |
 | Lets encrypt | All | US remote | [Link](https://letsencrypt.org/jobs/) | ? |
 | Leviathan Security Group | ? | Remote | [Link](https://www.leviathansecurity.com/careers) | ? |
 | LinkedIn | All | Remote | [Link](https://www.linkedin.com/job/home) | ? |
@@ -84,10 +84,10 @@ I'm looking for a full remote position (EU)! See [edoardottt.com/cv](https://www
 | SecurityScoreCard | Some areas | Full remote | [Link](https://securityscorecard.com/company/careers) | ? |
 | Semmle | Some areas | Full remote | [Link](https://semmle.com/careers) | ? |
 | Spotify | All | Full remote | [Link](https://www.lifeatspotify.com/jobs) | Yes |
-| SVA | Multiple | DE Remote | [Link](https://www.sva.de/de/job-portal/IT-Security-Consultant-Digital-Forensics-and-Incident-Resp-de-j250.html) | ? |
+| SVA | Multiple | DE Remote | [Link](https://www.sva.de/de/job-portal) | ? |
 | Tenable | Some Jobs | Full remote | [Link](https://recordedfuture.com/careers/Open) | ? |
 | Tumblr | Some areas | Full remote | [Link](https://www.tumblr.com/jobs) | ? |
-| Trail of Bits | Some areas | Full remote | [Link](https://jobs.lever.co/trailofbits) | ? |
+| Trail of Bits | Some areas | Full remote | [Link](https://boards.greenhouse.io/trailofbits) | ? |
 | TwelveSec | All | Full remote | [Link](https://twelvesec.workable.com/) | ? |
 | Twilio | Some roles | Full remote | [Link](https://www.twilio.com/de/company/jobs#open-positions) | ? |
 | Unit42 Palo Alto | Research | Full remote | [Link](https://jobs.jobvite.com/paloaltonetworks/jobs/all-jobs) | ? |
