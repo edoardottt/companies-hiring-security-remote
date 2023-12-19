@@ -96,10 +96,16 @@ Remote is meant to allow people from anywhere (or at least anywhere in a given t
 
 Places to find remote job postings:
 
+* [weworkremotely.com](https://weworkremotely.com/)
+* [remote.co](https://remote.co/remote-jobs/)
+* [workingnomads.com](https://www.workingnomads.com/jobs)
 * [remoteok.com](https://remoteok.com/)
+* [reddit.com/r/remotework](https://www.reddit.com/r/remotework/)
+* [remoteok.io](https://remoteok.io/)
+* [flexjobs.com](https://www.flexjobs.com/)
 * [nodesk.co](https://nodesk.co/)
 * [remotive.com](https://remotive.com/)
-* [remoteok.io](https://remoteok.io/remote-infosec-jobs)
+* [jobgether.com](https://jobgether.com/)
 * [Himalayas](https://himalayas.app/jobs/security)
 * [Ninjajobs](https://ninjajobs.org/)
 
