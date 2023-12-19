@@ -29,8 +29,7 @@ I'm looking for a full remote position (EU)! See [edoardottt.com/cv](https://www
 | Coalfire Labs | ? | Full remote / Remote US | [Link](https://www.coalfire.com/Careers) | ? |
 | Corelight | Multiple | Full Remote | [Link](https://corelight.com/company/careers/) | ? |
 | Cruise | All | Full Remote | [Link](https://getcruise.com/careers/jobs/) | ? |
-| Cybereason | Multiple | US Remote | [Link](https://corelight.com/company/careers/1539941), [Link](https://corelight.com/company/careers/1854588/), [Link](https://jobs.cybereason.com/) | ? |
-| Datadog | Some | Full remote | [Link](https://www.datadoghq.com/jobs-other/) | ? |
+| Datadog | Some | Full remote | [Link](https://careers.datadoghq.com/remote/) | ? |
 | DataDome | Some | Full remote (Based in France mainly, some in US) | [Link](https://www.welcometothejungle.com/en/companies/datadome/jobs) | ? |
 | DCSO | All | Full remote | [Link](https://dcso.de/de/talente/) | ? |
 | Deutsche Bahn / Systel | Some | Full remote (mostly Germany) | [Link](https://karriere.deutschebahn.com/) | ? |
@@ -118,17 +117,17 @@ Other lists
 
 ## Contributing
 
-You can help that list by creating issues or creating merge requests.
+You can help this list by creating issues or creating pull requests.
 
 ## FAQ
 
-Q: Company x is listed but does not offer a remote job at the moment - why is it listed?
+Q: Company xyz is listed but does not offer a remote job at the moment - why is it listed?
 
-A: I try very hard to keep the list up2date as possible, so at the time of adding a organisation, that organisation either offered a remote security job or had a public statement, that they are remote friendly. But as time goes on, organisations might not have (remote) positions open or even change the approach to remote friendly envirenment.
+A: I try very hard to keep the list up to date as possible, so at the time of adding an organization, that org either offered a remote security job or had a public statement that they are remote friendly. But as time goes on, orgs might not have (remote) positions open or even change the approach to remote friendly environnment.
 
-Q: Company X is not listed, but is remote friendly, can we add it?
+Q: Company xyz is not listed, but is remote friendly, can we add it?
 
-A: Sure, either make a pull request or raise an issue or tell me via twitter
+A: Sure, either make a pull request, open an issue or send me an email at <edoardott@gmail.com>
 
 Q: Is that page also available as webpage?
 A: yes: <https://edoardottt.github.io/companies-hiring-security-remote/>
