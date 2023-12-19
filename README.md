@@ -83,7 +83,7 @@ Company |  Areas hiring remote | Full/Regional remote | Source | Job Postings | 
 | Semmle | Some areas| Full remote | Job posting | [Link](https://semmle.com/careers) |?|
 | Spotify | All | Full remote | [Link](https://www.lifeatspotify.com/being-here/work-from-anywhere) | [Link](https://www.lifeatspotify.com/jobs) | Yes |
 | SVA | Multiple | DE Remote | Job posting | [Link](https://www.sva.de/de/job-portal/IT-Security-Consultant-Digital-Forensics-and-Incident-Resp-de-j250.html) |?|
-| Tenable | Some Jobs| Full remote | [Link(https://recordedfuture.com/careers/Open) | [Link](https://recordedfuture.com/careers/Open) |?|
+| Tenable | Some Jobs| Full remote | [Link](https://recordedfuture.com/careers/Open) | [Link](https://recordedfuture.com/careers/Open) |?|
 | Tumblr | Some areas| Full remote | Twitter | [Link](https://www.tumblr.com/jobs) |?|
 | Trail of Bits | Some areas| Full remote | At a job posting page | [Link](https://jobs.lever.co/trailofbits) |?|
 | TwelveSec | All| Full remote | [Link](https://twelvesec.com/careers/) | [Link](https://twelvesec.workable.com/) |?|
