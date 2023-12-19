@@ -4,7 +4,9 @@ List of companies that hire security people full remote.
 
 > This is an enhancement of [`jaegeral/companies-hiring-security-remote`](https://github.com/jaegeral/companies-hiring-security-remote) as it seems the repo is not maintained enough.
 
-Remote is meant to allow people from anywhere (or at least anywhere in a given timezone) without being forced to be in an office on a daily base.
+Remote is meant to allow people from anywhere (or at least anywhere in a given timezone) without being forced to be in an office on a daily base.  
+
+I'm looking for a full remote position (EU)! See [edoardottt.com/cv](https://www.edoardoottavianelli.it/cv).
 
 ## List
 
