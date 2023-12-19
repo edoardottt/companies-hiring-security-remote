@@ -8,7 +8,7 @@ Remote is meant to allow people from anywhere (or at least anywhere in a given t
 
 ## List
 
-Company |  Areas hiring remote| Full remote / Regional remote | Source | Job Postings link|Open for contractors|
+Company |  Areas hiring remote | Full/Regional remote | Source | Job Postings | Open for contractors |
 |---|---|---|---|---|---|
 | Abnormal Security | Most jobs|Full remote okay | At job posting page | [Link](https://careers.abnormalsecurity.com/open-roles) |?|
 | Alienvault | Some jobs|Full remote okay  | At a job posting page | [Link](http://jobs.jobvite.com/alienvault/) |?|
