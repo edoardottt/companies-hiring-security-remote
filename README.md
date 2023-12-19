@@ -29,8 +29,7 @@ I'm looking for a full remote position (EU)! See [edoardottt.com/cv](https://www
 | Coalfire Labs | ? | Full remote / Remote US | [Link](https://www.coalfire.com/Careers) | ? |
 | Corelight | Multiple | Full Remote | [Link](https://corelight.com/company/careers/) | ? |
 | Cruise | All | Full Remote | [Link](https://getcruise.com/careers/jobs/) | ? |
-| Cybereason | Multiple | US Remote | [Link](https://corelight.com/company/careers/1539941), [Link](https://corelight.com/company/careers/1854588/), [Link](https://jobs.cybereason.com/) | ? |
-| Datadog | Some | Full remote | [Link](https://www.datadoghq.com/jobs-other/) | ? |
+| Datadog | Some | Full remote | [Link](https://careers.datadoghq.com/remote/) | ? |
 | DataDome | Some | Full remote (Based in France mainly, some in US) | [Link](https://www.welcometothejungle.com/en/companies/datadome/jobs) | ? |
 | DCSO | All | Full remote | [Link](https://dcso.de/de/talente/) | ? |
 | Deutsche Bahn / Systel | Some | Full remote (mostly Germany) | [Link](https://karriere.deutschebahn.com/) | ? |
