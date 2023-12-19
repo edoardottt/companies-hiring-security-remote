@@ -95,7 +95,6 @@ I'm looking for a full remote position (EU)! See [edoardottt.com/cv](https://www
 | Nexus | All | Full remote | [Link](https://www.nexus.gg/careers) | ? |
 | NOCD | All | Full remote US | [Link](https://www.treatmyocd.com/about-us/careers) | ? |
 | Nomad Health | All | Full remote | [Link](https://boards.greenhouse.io/nomadhealth) | ? |
-| Novetta | ? | ? | [Link](https://www.novetta.com/careers/) | ? |
 | Orbital Sidekick | All | Full remote depending on the position | [Link](https://jobs.lever.co/orbitalsidekick) | ? |
 | Our Next Energy | All | Full remote depending on the position | [Link](https://recruiting.ultipro.com/OUR1002ONXE/JobBoard/5c7eeefc-e61c-417a-8468-f976a704a34d/?q=&o=postedDateDesc&w=&wc=&we=&wpst=) | ? |
 | Pagos Solutions | All | Full remote | [Link](https://jobs.ashbyhq.com/Pagos/) | ? |
@@ -116,7 +115,6 @@ I'm looking for a full remote position (EU)! See [edoardottt.com/cv](https://www
 | RiskIQ | Some areas | Full remote | [Link](https://www.riskiq.com/about/careers/) | ? |
 | Roq.ad | All | Full remote | [Link](https://www.roq.ad/careers/) | ? |
 | Salesforce | ? | ? | [Link](https://salesforce.wd1.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Cyber-Detection--Response----Threat-Engineers_JR15818-1) | ? |
-| SecurityScoreCard | All | Full remote | [Link](https://securityscorecard.com/company/careers#open-positions) | ? |
 | SecurityScoreCard | Some areas | Full remote | [Link](https://securityscorecard.com/company/careers) | ? |
 | Semmle | Some areas | Full remote | [Link](https://semmle.com/careers) | ? |
 | Sounding Board  | All | Full remote | [Link](https://sounding-board-inc.breezy.hr/) | ? |
