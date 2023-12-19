@@ -107,7 +107,7 @@ I'm looking for a full remote position (EU)! See [edoardottt.com/cv](https://www
 | TwelveSec | All | Full remote | [Link](https://twelvesec.workable.com/) | ? |
 | Twilio | Some roles | Full remote | [Link](https://www.twilio.com/de/company/jobs#open-positions) | ? |
 | Unit42 Palo Alto | Research | Full remote | [Link](https://jobs.jobvite.com/paloaltonetworks/jobs/all-jobs) | ? |
-| US BanK | ? | US Remote | [Link](https://usbank.taleo.net) | ? |
+| US Bank | ? | US Remote | [Link](hhttps://careers.usbank.com/global/en/search-results) | ? |
 | VMRay | ? | Full remote | [Link](https://careers.vmray.com/jobs/) | ? |
 | Wells Fargo | ? | Full remote | [Link](https://employment.wellsfargo.com/) | ? |
 | Whym | All | Full remote | [Link](https://whym.breezy.hr/) | ? |
