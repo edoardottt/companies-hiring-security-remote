@@ -13,6 +13,7 @@ I'm looking for a full remote position (EU)! See [edoardottt.com/cv](https://www
 | Company | Areas hiring remote | Full/Regional remote | Job Postings | Open for contractors |
 |---|---|---|---|---|
 | Abnormal Security | Most jobs | Full remote okay | [Link](https://careers.abnormalsecurity.com/open-roles) | ? |
+| AirBnb | Some | Full remote okay | [Link](https://careers.airbnb.com/) | ? |
 | AirHouse | All | Full remote | [Link](https://jobs.lever.co/airhouse) | ? |
 | Alation | All | Full remote depending on the position | [Link](https://www.alation.com/careers/) | ? |
 | Alienvault | Some jobs | Full remote okay | [Link](http://jobs.jobvite.com/alienvault/) | ? |
@@ -32,6 +33,7 @@ I'm looking for a full remote position (EU)! See [edoardottt.com/cv](https://www
 | CAST AI | All | Full remote | [Link](https://castai.teamtailor.com/jobs) | ? |
 | Cisco | Some | Full remote | [Link](https://jobs.cisco.com/jobs/SearchJobs) | ? |
 | Cisco Talos | All | Full remote | [Link](https://www.talosintelligence.com/careers) | ? |
+| Cloudflare | Some | Full remote depending on the position | [Link](https://www.cloudflare.com/careers/jobs/?department=Security) | ? |
 | Coalfire Labs | ? | Full remote / Remote US | [Link](https://www.coalfire.com/Careers) | ? |
 | CodeSignal | All | Full remote | [Link](https://boards.greenhouse.io/codesignal/) | ? |
 | Corelight | Multiple | Full Remote | [Link](https://corelight.com/company/careers/) | ? |
@@ -90,6 +92,7 @@ I'm looking for a full remote position (EU)! See [edoardottt.com/cv](https://www
 | Monogram Health | All | Full remote | [Link](https://recruiting2.ultipro.com/MON1026MONOH/JobBoard/bcaf2db0-50c8-4e2f-9d65-e8e00c882a25/?q=&o=postedDateDesc&f4=Ul4V2PqKgEuQizHPFQPobw) | ? |
 | Motion | All | Full remote | [Link](https://jobs.ashbyhq.com/motion) | ? |
 | Mozilla | All | Full remote depending on the position | [Link](https://careers.mozilla.org/) | ? |
+| Netflix | Some | Full remote depending on the position | [Link](https://jobs.netflix.com/search?q=remote) | ? |
 | Netskope | Some | Full remote | [Link](https://www.netskope.com/company/careers/open-positions) | ? |
 | Nextrons Systems | All | Partially Remote (weekly checkin to the office in DE) | [Link](https://www.nextron-systems.com/jobs/) | ? |
 | Nexus | All | Full remote | [Link](https://www.nexus.gg/careers) | ? |
