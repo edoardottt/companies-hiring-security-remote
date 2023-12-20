@@ -46,7 +46,7 @@ I'm looking for a full remote position (EU)! See [edoardottt.com/cv](https://www
 | Dell Secure Works | Some | Regional remote | [Link](https://jobs.dell.com) | ? |
 | Deutsche Bahn / Systel | Some | Full remote (mostly Germany) | [Link](https://karriere.deutschebahn.com/) | ? |
 | Diligent Robotics | All | Full remote depending on the position | [Link](https://boards.greenhouse.io/diligentrobotics) | ? |
-| DNSFilter | All | Full remote (mainly in US) | No |  |
+| DNSFilter | All | Full remote (mainly in US) | [Link](https://apply.workable.com/dnsfilter/#jobs) |  |
 | Dow Jones | On a case by case basis | ? | [Link](https://dowjones.jobs/) | ? |
 | Doyensec | Application Security Engineer | Full remote | [Link](https://www.careers-page.com/doyensec-llc) | ? |
 | Dragos | Some | US remote | [Link](https://careers.dragos.com/jobs) | ? |
@@ -83,8 +83,7 @@ I'm looking for a full remote position (EU)! See [edoardottt.com/cv](https://www
 | Levels | All | Full remote | [Link](https://www.notion.so/Careers-at-Levels-3616891ed02d4c0787fd64227f9bc57a) | ? |
 | Leviathan Security Group | ? | Remote | [Link](https://www.leviathansecurity.com/careers) | ? |
 | LinkedIn | All | Remote | [Link](https://www.linkedin.com/job/home) | ? |
-| Major League Baseball | ? | ? | [Link](http://mlb.mlb.com/careers/index.jsp) | ? |
-| Mandiant(Google) | Some | Remote | [Link](https://www.google.com/about/careers/applications/jobs/results/) | ? |
+| Mandiant (Google) | Some | Remote | [Link](https://www.google.com/about/careers/applications/jobs/results/) | ? |
 | Material Security | All | Full Remote | [Link](https://material.security/careers#available) | No |
 | Microsoft | PM | Remote US | [Link](https://careers.microsoft.com/) | ? |
 | Midi Health | All | Full remote | [Link](https://boards.greenhouse.io/midihealth) | ? |
@@ -117,7 +116,7 @@ I'm looking for a full remote position (EU)! See [edoardottt.com/cv](https://www
 | Rill Data | All | Full remote / Remote US | [Link](https://www.rilldata.com/careers) | ? |
 | RiskIQ | Some areas | Full remote | [Link](https://www.riskiq.com/about/careers/) | ? |
 | Roq.ad | All | Full remote | [Link](https://www.roq.ad/careers/) | ? |
-| Salesforce | ? | ? | [Link](https://salesforce.wd1.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Cyber-Detection--Response----Threat-Engineers_JR15818-1) | ? |
+| Salesforce | Some | Full remote depending on the position | [Link](https://careers.salesforce.com/en/jobs/?search=&location=Remote&pagesize=200#results) | ? |
 | SecurityScoreCard | Some areas | Full remote | [Link](https://securityscorecard.com/company/careers) | ? |
 | Semmle | Some areas | Full remote | [Link](https://semmle.com/careers) | ? |
 | Sounding Board  | All | Full remote | [Link](https://sounding-board-inc.breezy.hr/) | ? |
@@ -130,7 +129,7 @@ I'm looking for a full remote position (EU)! See [edoardottt.com/cv](https://www
 | TwelveSec | All | Full remote | [Link](https://twelvesec.workable.com/) | ? |
 | Twilio | Some roles | Full remote | [Link](https://www.twilio.com/de/company/jobs#open-positions) | ? |
 | Unit42 Palo Alto | Research | Full remote | [Link](https://jobs.jobvite.com/paloaltonetworks/jobs/all-jobs) | ? |
-| US Bank | ? | US Remote | [Link](hhttps://careers.usbank.com/global/en/search-results) | ? |
+| US Bank | ? | US Remote | [Link](https://careers.usbank.com/global/en/search-results) | ? |
 | VMRay | ? | Full remote | [Link](https://careers.vmray.com/jobs/) | ? |
 | Wells Fargo | ? | Full remote | [Link](https://employment.wellsfargo.com/) | ? |
 | Whym | All | Full remote | [Link](https://whym.breezy.hr/) | ? |
