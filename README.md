@@ -21,6 +21,7 @@ I'm looking for a full remote position (EU)! See [edoardottt.com/cv](https://www
 | Appsecconsulting | Some jobs | Full remote okay | [Link](https://www.appsecconsulting.com/company/careers/) | ? |
 | Arize AI | All | Full remote | [Link](https://arize.com/careers) | ? |
 | Astronomer | Most jobs | Full remote okay | [Link](https://www.astronomer.io/careers/#openings) | ? |
+| Atlassian | Most jobs | Full remore okay | [Link](https://www.atlassian.com/company/careers/all-jobs) | ? |
 | Aurora Innovation | Product Security | US Remote | [Link](https://aurora.tech/careers/) | No |
 | Auth0 | All | Full remote okay | [Link](https://auth0.com/careers) | ? |
 | bill.com |  | Some areas | [Link](https://www.bill.com/about-us/jobs) | ? |
@@ -31,11 +32,13 @@ I'm looking for a full remote position (EU)! See [edoardottt.com/cv](https://www
 | Bright Security | All | Full remote | [Link](https://brightsec.com/careers/) | ? |
 | Canonical | Some | Full remote | [Link](https://www.canonical.com/careers/all-vacancies) | ? |
 | CAST AI | All | Full remote | [Link](https://castai.teamtailor.com/jobs) | ? |
+| Cimpress | All | Full remote | [Link](https://jobs.vista.com/Cimpress-Technology/go/CT/7796800/) | ? |
 | Cisco | Some | Full remote | [Link](https://jobs.cisco.com/jobs/SearchJobs) | ? |
 | Cisco Talos | All | Full remote | [Link](https://www.talosintelligence.com/careers) | ? |
 | Cloudflare | Some | Full remote depending on the position | [Link](https://www.cloudflare.com/careers/jobs/?department=Security) | ? |
 | Coalfire Labs | ? | Full remote / Remote US | [Link](https://www.coalfire.com/Careers) | ? |
 | CodeSignal | All | Full remote | [Link](https://boards.greenhouse.io/codesignal/) | ? |
+| Coinbase | All | Full Remote US | [Link](https://www.coinbase.com/careers/positions) | ? |
 | Corelight | Multiple | Full Remote | [Link](https://corelight.com/company/careers/) | ? |
 | Crowdstrike | Most jobs | Full remote / Remote US | [Link](https://www.crowdstrike.com/careers/) | ? |
 | Cruise | All | Full Remote | [Link](https://getcruise.com/careers/jobs/) | ? |
@@ -50,6 +53,8 @@ I'm looking for a full remote position (EU)! See [edoardottt.com/cv](https://www
 | Dow Jones | On a case by case basis | ? | [Link](https://dowjones.jobs/) | ? |
 | Doyensec | Application Security Engineer | Full remote | [Link](https://www.careers-page.com/doyensec-llc) | ? |
 | Dragos | Some | US remote | [Link](https://careers.dragos.com/jobs) | ? |
+| Drift | Some | US remote | [Link](https://www.drift.com/about/careers/#openings) | ? |
+| Dropbox | All | Full Remote | [Link](https://jobs.dropbox.com/all-jobs) | ? |
 | Elastic | Some roles | Full remote | [Link](https://www.elastic.co/about/careers/#engineering) | ? |
 | Enable Security | Security | Full remote | [Link](https://de.linkedin.com/company/enablesecurity) | ? |
 | Facebook | Some roles | Full remote | [Link](https://www.facebook.com/careers/) | ? |
@@ -74,6 +79,7 @@ I'm looking for a full remote position (EU)! See [edoardottt.com/cv](https://www
 | ImmersiveLabs | Some | Full remote | [Link](https://www.immersivelabs.com/careers/) | ? |
 | Impel | All | Full remote | [Link](https://recruiting.paylocity.com/recruiting/jobs/All/8c8ec28a-de5e-44a4-9180-b30161bd0488/Impel) | ? |
 | Inquest | Some | Full US remote okay | [Link](https://inquest.net/) | ? |
+| InstaCart | All | Full Remote US | [Link](https://instacart.careers/current-openings/) | ? |
 | Intel | Some | Depending on the position | [Link](https://jobs.intel.com/) | ? |
 | Kaspersky | ? | Remote | [Link](https://careers.kaspersky.com) | ? |
 | Kraken | Most Roles | Full remote | [Link](https://jobs.lever.co/kraken) | ? |
@@ -112,6 +118,7 @@ I'm looking for a full remote position (EU)! See [edoardottt.com/cv](https://www
 | Razor Group | Some | Full remote depending on the position | [Link](https://www.razor-group.com/job-openings) | ? |
 | Recon Infosec | All | Full remote | [Link](https://www.reconinfosec.com/careers/) | ? |
 | Recorded Future | Some areas | Full remote | [Link](https://www.recordedfuture.com/careers/#job-post) | No |
+| Reddit | All | Full Remote US okay | [Link](https://www.redditinc.com/careers/) | ? |
 | ReversingLabs | ? | ? | [Link](https://reversinglabs.workable.com) | ? |
 | Rill Data | All | Full remote / Remote US | [Link](https://www.rilldata.com/careers) | ? |
 | RiskIQ | Some areas | Full remote | [Link](https://www.riskiq.com/about/careers/) | ? |
