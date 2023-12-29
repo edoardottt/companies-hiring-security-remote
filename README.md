@@ -158,6 +158,7 @@ Places to find remote job postings:
 * [jobgether.com](https://jobgether.com/)
 * [Himalayas](https://himalayas.app/jobs/security)
 * [Ninjajobs](https://ninjajobs.org/)
+* [airocketships.co](https://www.airocketships.co/)
 
 Other lists
 
