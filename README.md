@@ -152,6 +152,7 @@ Places to find remote job postings:
 * [remoteok.com](https://remoteok.com/)
 * [reddit.com/r/remotework](https://www.reddit.com/r/remotework/)
 * [remoteok.io](https://remoteok.io/)
+* [remotely](https://tryremotely.com/)
 * [flexjobs.com](https://www.flexjobs.com/)
 * [nodesk.co](https://nodesk.co/)
 * [remotive.com](https://remotive.com/)
