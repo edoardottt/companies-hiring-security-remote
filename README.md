@@ -152,12 +152,15 @@ Places to find remote job postings:
 * [remoteok.com](https://remoteok.com/)
 * [reddit.com/r/remotework](https://www.reddit.com/r/remotework/)
 * [remoteok.io](https://remoteok.io/)
+* [remotely](https://tryremotely.com/)
 * [flexjobs.com](https://www.flexjobs.com/)
 * [nodesk.co](https://nodesk.co/)
 * [remotive.com](https://remotive.com/)
 * [jobgether.com](https://jobgether.com/)
 * [Himalayas](https://himalayas.app/jobs/security)
 * [Ninjajobs](https://ninjajobs.org/)
+* [airocketships.co](https://www.airocketships.co/)
+* [remoterocketship.com](https://www.remoterocketship.com/)
 
 Other lists
 
