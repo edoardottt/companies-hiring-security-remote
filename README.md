@@ -160,6 +160,7 @@ Places to find remote job postings:
 * [Himalayas](https://himalayas.app/jobs/security)
 * [Ninjajobs](https://ninjajobs.org/)
 * [airocketships.co](https://www.airocketships.co/)
+* [remoterocketship.com](https://www.remoterocketship.com/)
 
 Other lists
 
