@@ -118,6 +118,7 @@ I'm looking for a full remote position (EU)! See [edoardottt.com/cv](https://www
 | Razor Group | Some | Full remote depending on the position | [Link](https://www.razor-group.com/job-openings) | ? |
 | Recon Infosec | All | Full remote | [Link](https://www.reconinfosec.com/careers/) | ? |
 | Recorded Future | Some areas | Full remote | [Link](https://www.recordedfuture.com/careers/#job-post) | No |
+| Red Canary | All | Some Remote | [Link](https://redcanary.com/job-openings/) | ? |
 | Reddit | All | Full Remote US okay | [Link](https://www.redditinc.com/careers/) | ? |
 | ReversingLabs | ? | ? | [Link](https://reversinglabs.workable.com) | ? |
 | Rill Data | All | Full remote / Remote US | [Link](https://www.rilldata.com/careers) | ? |
