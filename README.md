@@ -57,6 +57,7 @@ I'm looking for a full remote position (EU)! See [edoardottt.com/cv](https://www
 | Dropbox | All | Full Remote | [Link](https://jobs.dropbox.com/all-jobs) | ? |
 | Elastic | Some roles | Full remote | [Link](https://www.elastic.co/about/careers/#engineering) | ? |
 | Enable Security | Security | Full remote | [Link](https://de.linkedin.com/company/enablesecurity) | ? |
+| ExtraHop | All | Full Remote | [Link](https://www.extrahop.com/company/careers/) | ? |
 | Facebook | Some roles | Full remote | [Link](https://www.facebook.com/careers/) | ? |
 | Fastly | All | Full remote | [Link](https://www.fastly.com/about/careers) | ? |
 | Fieldguide | All | Full remote US | [Link](https://www.fieldguide.io/careers) | ? |
@@ -110,6 +111,7 @@ I'm looking for a full remote position (EU)! See [edoardottt.com/cv](https://www
 | phobos.io | All | Full remote okay | [Link](https://phobos.io/careers) | ? |
 | Platform.sh | All | Full remote | [Link](https://platform.sh/company/careers/) | ? |
 | Portside | All | Full remote | [Link](https://portside.co/about/#open_positions) | ? |
+| Praetorian | All | Full Remote | [Link](https://www.praetorian.com/company/careers/) | ? |
 | Prelay | All | Full remote US | [Link](https://jobs.lever.co/prelay) | ? |
 | Prelude | All | Full remote | [Link](https://angel.co/company/prelude-1/jobs) | ? |
 | Project Discovery | All | Full remote | [Link](https://boards.greenhouse.io/projectdiscoveryinc) | ? |
@@ -143,6 +145,7 @@ I'm looking for a full remote position (EU)! See [edoardottt.com/cv](https://www
 | Wikimedia Foundation | ? | Full remote | [Link](https://wikimediafoundation.org/about/jobs/) | ? |
 | Xpansiv | All | Full remote | [Link](https://jobs.lever.co/Xpansiv%20) | ? |
 | Zero Day | Automotive Security | Regional Remote Central Europe | [Link](https://zer0-day.de/project/) | Case by Case decision |
+| Zscaler | All | Remote depending on job | [Link](https://www.zscaler.com/careers#positions) | ? |
 
 Places to find remote job postings:
 
