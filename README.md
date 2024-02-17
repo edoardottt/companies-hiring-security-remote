@@ -73,6 +73,7 @@ I'm looking for a full remote position (EU)! See [edoardottt.com/cv](https://www
 | Gradle | Application Security Engineer | Full remote | [Link](https://boards.greenhouse.io/gradle/) |  |
 | Greenomy | All | Full remote | [Link](https://careers.greenomy.io/#jobs) | ? |
 | Growblocks | All | Full remote | [Link](https://thehub.io/startups/growblocks) | ? |
+| Hacktive Security | All | Full remote | [Link](https://www.linkedin.com/company/hacktive-security/jobs/) | ? |
 | Heroku | Some | Full remote | [Link](https://www.heroku.com/careers/) | ? |
 | Human Rights Watch | Some | Full remote | [Link](https://careers.hrw.org/) | ? |
 | Human Security | All | Full remote | [Link](https://www.humansecurity.com/company/careers) | ? |
