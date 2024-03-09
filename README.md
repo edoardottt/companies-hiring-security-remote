@@ -6,7 +6,10 @@ List of companies that hire security people full remote.
 
 Remote is meant to allow people from anywhere (or at least anywhere in a given timezone) without being forced to be in an office on a daily base.  
 
+<!--
+Currently working at Hacktive Security.
 I'm looking for a full remote position (EU)! See [edoardottt.com/cv](https://www.edoardoottavianelli.it/cv).
+-->
 
 ## List
 
@@ -166,6 +169,14 @@ Places to find remote job postings:
 * [Ninjajobs](https://ninjajobs.org/)
 * [airocketships.co](https://www.airocketships.co/)
 * [remoterocketship.com](https://www.remoterocketship.com/)
+* [virtualvocations.com](https://www.virtualvocations.com/)
+* [freshersworld.com](https://www.freshersworld.com/)
+* [justremote.co](https://justremote.co/)
+* [crossover.com](https://www.crossover.com/)
+* [simplyhired.com](https://www.simplyhired.com/)
+* [wellfound.com](https://wellfound.com/)
+* [dice.com](https://www.dice.com/)
+* [otta.com](https://app.otta.com/)
 
 Other lists
 
