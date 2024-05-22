@@ -23,7 +23,7 @@ I'm looking for a full remote position (EU)! See [edoardottt.com/cv](https://www
 | Alienvault | Some jobs | Full remote okay | [Link](http://jobs.jobvite.com/alienvault/) | ? |
 | Angle Health | All | Full remote | [Link](https://jobs.lever.co/AngleHealth) | ? |
 | Appsecconsulting | Some jobs | Full remote okay | [Link](https://www.appsecconsulting.com/company/careers/) | ? |
-| Arctic Wolf | Some | Full remote | [Link](https://arcticwolf.com/company/careers/) | ? |
+| Arctic Wolf | Some | Full remote (Regional) | [Link](https://arcticwolf.com/company/careers/) | ? |
 | Arize AI | All | Full remote | [Link](https://arize.com/careers) | ? |
 | Astronomer | Most jobs | Full remote okay | [Link](https://www.astronomer.io/careers/#openings) | ? |
 | Atlassian | Most jobs | Full remore okay | [Link](https://www.atlassian.com/company/careers/all-jobs) | ? |
