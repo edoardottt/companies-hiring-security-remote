@@ -37,6 +37,7 @@ I'm looking for a full remote position (EU)! See [edoardottt.com/cv](https://www
 | Bright Security | All | Full remote | [Link](https://brightsec.com/careers/) | ? |
 | Canonical | Some | Full remote | [Link](https://www.canonical.com/careers/all-vacancies) | ? |
 | CAST AI | All | Full remote | [Link](https://castai.teamtailor.com/jobs) | ? |
+| Certego | Some | Full remote | [Link(https://www.certego.net/company/careers/) | ? |
 | Cimpress | All | Full remote | [Link](https://jobs.vista.com/Cimpress-Technology/go/CT/7796800/) | ? |
 | Cisco | Some | Full remote | [Link](https://jobs.cisco.com/jobs/SearchJobs) | ? |
 | Cisco Talos | All | Full remote | [Link](https://www.talosintelligence.com/careers) | ? |
@@ -92,7 +93,9 @@ I'm looking for a full remote position (EU)! See [edoardottt.com/cv](https://www
 | InstaCart | All | Full Remote US | [Link](https://instacart.careers/current-openings/) | ? |
 | Intel | Some | Depending on the position | [Link](https://jobs.intel.com/) | ? |
 | Kaspersky | ? | Remote | [Link](https://careers.kaspersky.com) | ? |
+| Kivu | All | Full Remote US | [Link](https://kivuconsulting.com/careers/) | ? |
 | Kraken | Most Roles | Full remote | [Link](https://jobs.lever.co/kraken) | ? |
+| Kroll | Some | Full remote (Regional) | [Link](https://careers.kroll.com/en) | ? |
 | LeafLink | All | Full remote | [Link](https://boards.greenhouse.io/leaflink/) | ? |
 | Ledn | Some | Full remote | [Link](https://ledn.io/careers) | ? |
 | Lets encrypt | All | US remote | [Link](https://letsencrypt.org/jobs/) | ? |
