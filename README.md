@@ -37,7 +37,7 @@ I'm looking for a full remote position (EU)! See [edoardottt.com/cv](https://www
 | Bright Security | All | Full remote | [Link](https://brightsec.com/careers/) | ? |
 | Canonical | Some | Full remote | [Link](https://www.canonical.com/careers/all-vacancies) | ? |
 | CAST AI | All | Full remote | [Link](https://castai.teamtailor.com/jobs) | ? |
-| Certego | Some | Full remote | [Link(https://www.certego.net/company/careers/) | ? |
+| Certego | Some | Full remote | [Link](https://www.certego.net/company/careers/) | ? |
 | Cimpress | All | Full remote | [Link](https://jobs.vista.com/Cimpress-Technology/go/CT/7796800/) | ? |
 | Cisco | Some | Full remote | [Link](https://jobs.cisco.com/jobs/SearchJobs) | ? |
 | Cisco Talos | All | Full remote | [Link](https://www.talosintelligence.com/careers) | ? |
