@@ -31,6 +31,7 @@ I'm looking for a full remote position (EU)! See [edoardottt.com/cv](https://www
 | Auth0 | All | Full remote okay | [Link](https://auth0.com/careers) | ? |
 | bill.com |  | Some areas | [Link](https://www.bill.com/about-us/jobs) | ? |
 | Bishop Fox |  | Some areas | [Link](https://www.bishopfox.com/jobs/) | ? |
+| Bitdefender | Some | Full remote US | [Link](https://www.bitdefender.com/company/job-opportunities/) | ? |
 | BlackKnight |  | Some areas | [Link](https://blackknight.wd1.myworkdayjobs.com/BKC/0/refreshFacet/318c8bb6f553100021d223d9780d30be) | ? |
 | Bravely | All | Full remote US | [Link](https://boards.greenhouse.io/bravely) | ? |
 | BreakPoint Labs | Some | Full remote | [Link](https://jobs.polymer.co/breakpointlabs) | ? |
@@ -92,6 +93,7 @@ I'm looking for a full remote position (EU)! See [edoardottt.com/cv](https://www
 | Inquest | Some | Full US remote okay | [Link](https://inquest.net/) | ? |
 | InstaCart | All | Full Remote US | [Link](https://instacart.careers/current-openings/) | ? |
 | Intel | Some | Depending on the position | [Link](https://jobs.intel.com/) | ? |
+| Jamf | Some | Full remote US | [Link](https://www.jamf.com/about/careers/) | ? |
 | Kaspersky | ? | Remote | [Link](https://careers.kaspersky.com) | ? |
 | Kivu | All | Full Remote US | [Link](https://kivuconsulting.com/careers/) | ? |
 | Kraken | Most Roles | Full remote | [Link](https://jobs.lever.co/kraken) | ? |
@@ -142,6 +144,7 @@ I'm looking for a full remote position (EU)! See [edoardottt.com/cv](https://www
 | Samsara | Some | Full remote | [Link](https://www.samsara.com/company/careers/) | ? |
 | SecurityScoreCard | Some areas | Full remote | [Link](https://securityscorecard.com/company/careers) | ? |
 | Semmle | Some areas | Full remote | [Link](https://semmle.com/careers) | ? |
+| SimSpace | Some | Full remote US | [Link](https://www.simspace.com/careers) | ? |
 | Sounding Board  | All | Full remote | [Link](https://sounding-board-inc.breezy.hr/) | ? |
 | SpecterOps | Some | Full remote | [Link](https://specterops.io/careers) | ? |
 | Spotify | All | Full remote | [Link](https://www.lifeatspotify.com/jobs) | Yes |
