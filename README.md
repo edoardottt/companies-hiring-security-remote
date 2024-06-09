@@ -150,7 +150,7 @@ I'm looking for a full remote position (EU)! See [edoardottt.com/cv](https://www
 | Spotify | All | Full remote | [Link](https://www.lifeatspotify.com/jobs) | Yes |
 | SVA | Multiple | DE Remote | [Link](https://www.sva.de/de/job-portal) | ? |
 | SwitchBoard | All | Full remote | [Link](https://boards.greenhouse.io/switchboard) | ? |
-| Tenable | Some Jobs | Full remote | [Link](https://recordedfuture.com/careers/Open) | ? |
+| Tenable | Some Jobs | Full remote | [Link](https://www.tenable.com/careers) | ? |
 | Trail of Bits | Some areas | Full remote | [Link](https://boards.greenhouse.io/trailofbits) | ? |
 | Tumblr | Some areas | Full remote | [Link](https://www.tumblr.com/jobs) | ? |
 | TwelveSec | All | Full remote | [Link](https://twelvesec.workable.com/) | ? |
