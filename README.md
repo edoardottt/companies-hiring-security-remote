@@ -6,7 +6,7 @@ List of companies that hire security people full remote.
 
 Remote is meant to allow people from anywhere (or at least anywhere in a given timezone) without being forced to be in an office on a daily base.  
 
-I'm looking for a full remote position (EU)! See [edoardottt.com/cv](https://www.edoardoottavianelli.it/cv).
+I'm looking for a full remote position (EU)! See [edoardottt.com/cv](https://edoardottt.com/cv).
 
 ## List
 
