@@ -8,7 +8,7 @@ Remote is meant to allow people from anywhere (or at least anywhere in a given t
 
 <!--
 Currently working at Hacktive Security.
-I'm looking for a full remote position (EU)! See [edoardottt.com/cv](https://www.edoardoottavianelli.it/cv).
+I'm not :) looking for a full remote position (EU)! See [edoardottt.com/cv](https://edoardottt.com/cv).
 -->
 
 ## List
