@@ -4,14 +4,18 @@ List of companies that hire security people full remote.
 
 > This is an enhancement of [`jaegeral/companies-hiring-security-remote`](https://github.com/jaegeral/companies-hiring-security-remote) as it seems the repo is not maintained enough.
 
-Remote is meant to allow people from anywhere (or at least anywhere in a given timezone) without being forced to be in an office on a daily base.  
+Remote is meant to allow people from anywhere (or at least anywhere in a given timezone) without being forced to be in an office on a daily basis.
 
-I'm looking for a full remote position (EU)! See [edoardottt.com/cv](https://edoardottt.com/cv).
+<!--
+Currently working at Hacktive Security.
+I'm not :) looking for a full remote position (EU)! See [edoardottt.com/cv](https://edoardottt.com/cv).
+-->
 
 ## List
 
 | Company | Areas hiring remote | Full/Regional remote | Job Postings | Open for contractors |
 |---|---|---|---|---|
+| 1Password | All | Full remote | [Link](https://1password.com/careers) | ? |
 | Abnormal Security | Most jobs | Full remote okay | [Link](https://careers.abnormalsecurity.com/open-roles) | ? |
 | AirBnb | Some | Full remote okay | [Link](https://careers.airbnb.com/) | ? |
 | AirHouse | All | Full remote | [Link](https://jobs.lever.co/airhouse) | ? |
@@ -19,6 +23,7 @@ I'm looking for a full remote position (EU)! See [edoardottt.com/cv](https://edo
 | Alienvault | Some jobs | Full remote okay | [Link](http://jobs.jobvite.com/alienvault/) | ? |
 | Angle Health | All | Full remote | [Link](https://jobs.lever.co/AngleHealth) | ? |
 | Appsecconsulting | Some jobs | Full remote okay | [Link](https://www.appsecconsulting.com/company/careers/) | ? |
+| Arctic Wolf | Some | Full remote (Regional) | [Link](https://arcticwolf.com/company/careers/) | ? |
 | Arize AI | All | Full remote | [Link](https://arize.com/careers) | ? |
 | Astronomer | Most jobs | Full remote okay | [Link](https://www.astronomer.io/careers/#openings) | ? |
 | Atlassian | Most jobs | Full remore okay | [Link](https://www.atlassian.com/company/careers/all-jobs) | ? |
@@ -26,12 +31,14 @@ I'm looking for a full remote position (EU)! See [edoardottt.com/cv](https://edo
 | Auth0 | All | Full remote okay | [Link](https://auth0.com/careers) | ? |
 | bill.com |  | Some areas | [Link](https://www.bill.com/about-us/jobs) | ? |
 | Bishop Fox |  | Some areas | [Link](https://www.bishopfox.com/jobs/) | ? |
+| Bitdefender | Some | Full remote US | [Link](https://www.bitdefender.com/company/job-opportunities/) | ? |
 | BlackKnight |  | Some areas | [Link](https://blackknight.wd1.myworkdayjobs.com/BKC/0/refreshFacet/318c8bb6f553100021d223d9780d30be) | ? |
 | Bravely | All | Full remote US | [Link](https://boards.greenhouse.io/bravely) | ? |
 | BreakPoint Labs | Some | Full remote | [Link](https://jobs.polymer.co/breakpointlabs) | ? |
 | Bright Security | All | Full remote | [Link](https://brightsec.com/careers/) | ? |
 | Canonical | Some | Full remote | [Link](https://www.canonical.com/careers/all-vacancies) | ? |
 | CAST AI | All | Full remote | [Link](https://castai.teamtailor.com/jobs) | ? |
+| Certego | Some | Full remote | [Link](https://www.certego.net/company/careers/) | ? |
 | Cimpress | All | Full remote | [Link](https://jobs.vista.com/Cimpress-Technology/go/CT/7796800/) | ? |
 | Cisco | Some | Full remote | [Link](https://jobs.cisco.com/jobs/SearchJobs) | ? |
 | Cisco Talos | All | Full remote | [Link](https://www.talosintelligence.com/careers) | ? |
@@ -39,6 +46,7 @@ I'm looking for a full remote position (EU)! See [edoardottt.com/cv](https://edo
 | Coalfire Labs | ? | Full remote / Remote US | [Link](https://www.coalfire.com/Careers) | ? |
 | CodeSignal | All | Full remote | [Link](https://boards.greenhouse.io/codesignal/) | ? |
 | Coinbase | All | Full Remote US | [Link](https://www.coinbase.com/careers/positions) | ? |
+| Contrast Security | Some | Full remote | [Link](https://www.contrastsecurity.com/contrast-careers) | ? |
 | Corelight | Multiple | Full Remote | [Link](https://corelight.com/company/careers/) | ? |
 | Crowdstrike | Most jobs | Full remote / Remote US | [Link](https://www.crowdstrike.com/careers/) | ? |
 | Cruise | All | Full Remote | [Link](https://getcruise.com/careers/jobs/) | ? |
@@ -73,17 +81,23 @@ I'm looking for a full remote position (EU)! See [edoardottt.com/cv](https://edo
 | Gradle | Application Security Engineer | Full remote | [Link](https://boards.greenhouse.io/gradle/) |  |
 | Greenomy | All | Full remote | [Link](https://careers.greenomy.io/#jobs) | ? |
 | Growblocks | All | Full remote | [Link](https://thehub.io/startups/growblocks) | ? |
+| Hacktive Security | All | Full remote | [Link](https://www.linkedin.com/company/hacktive-security/jobs/) | ? |
 | Heroku | Some | Full remote | [Link](https://www.heroku.com/careers/) | ? |
+| Horizon3.ai | Some | Full Remote US | [Link](https://www.horizon3.ai/join-our-team/) | ? |
 | Human Rights Watch | Some | Full remote | [Link](https://careers.hrw.org/) | ? |
 | Human Security | All | Full remote | [Link](https://www.humansecurity.com/company/careers) | ? |
+| Huntress | All | Full remote | [Link](https://www.huntress.com/company/careers) | ? |
 | Immerok | All | Full remote | [Link](https://www.immerok.io/careers) | ? |
 | ImmersiveLabs | Some | Full remote | [Link](https://www.immersivelabs.com/careers/) | ? |
 | Impel | All | Full remote | [Link](https://recruiting.paylocity.com/recruiting/jobs/All/8c8ec28a-de5e-44a4-9180-b30161bd0488/Impel) | ? |
 | Inquest | Some | Full US remote okay | [Link](https://inquest.net/) | ? |
 | InstaCart | All | Full Remote US | [Link](https://instacart.careers/current-openings/) | ? |
 | Intel | Some | Depending on the position | [Link](https://jobs.intel.com/) | ? |
+| Jamf | Some | Full remote US | [Link](https://www.jamf.com/about/careers/) | ? |
 | Kaspersky | ? | Remote | [Link](https://careers.kaspersky.com) | ? |
+| Kivu | All | Full Remote US | [Link](https://kivuconsulting.com/careers/) | ? |
 | Kraken | Most Roles | Full remote | [Link](https://jobs.lever.co/kraken) | ? |
+| Kroll | Some | Full remote (Regional) | [Link](https://careers.kroll.com/en) | ? |
 | LeafLink | All | Full remote | [Link](https://boards.greenhouse.io/leaflink/) | ? |
 | Ledn | Some | Full remote | [Link](https://ledn.io/careers) | ? |
 | Lets encrypt | All | US remote | [Link](https://letsencrypt.org/jobs/) | ? |
@@ -127,13 +141,16 @@ I'm looking for a full remote position (EU)! See [edoardottt.com/cv](https://edo
 | RiskIQ | Some areas | Full remote | [Link](https://www.riskiq.com/about/careers/) | ? |
 | Roq.ad | All | Full remote | [Link](https://www.roq.ad/careers/) | ? |
 | Salesforce | Some | Full remote depending on the position | [Link](https://careers.salesforce.com/en/jobs/?search=&location=Remote&pagesize=200#results) | ? |
+| Samsara | Some | Full remote | [Link](https://www.samsara.com/company/careers/) | ? |
 | SecurityScoreCard | Some areas | Full remote | [Link](https://securityscorecard.com/company/careers) | ? |
 | Semmle | Some areas | Full remote | [Link](https://semmle.com/careers) | ? |
+| SimSpace | Some | Full remote US | [Link](https://www.simspace.com/careers) | ? |
 | Sounding Board  | All | Full remote | [Link](https://sounding-board-inc.breezy.hr/) | ? |
+| SpecterOps | Some | Full remote | [Link](https://specterops.io/careers) | ? |
 | Spotify | All | Full remote | [Link](https://www.lifeatspotify.com/jobs) | Yes |
 | SVA | Multiple | DE Remote | [Link](https://www.sva.de/de/job-portal) | ? |
 | SwitchBoard | All | Full remote | [Link](https://boards.greenhouse.io/switchboard) | ? |
-| Tenable | Some Jobs | Full remote | [Link](https://recordedfuture.com/careers/Open) | ? |
+| Tenable | Some Jobs | Full remote | [Link](https://www.tenable.com/careers) | ? |
 | Trail of Bits | Some areas | Full remote | [Link](https://boards.greenhouse.io/trailofbits) | ? |
 | Tumblr | Some areas | Full remote | [Link](https://www.tumblr.com/jobs) | ? |
 | TwelveSec | All | Full remote | [Link](https://twelvesec.workable.com/) | ? |
@@ -165,6 +182,14 @@ Places to find remote job postings:
 * [Ninjajobs](https://ninjajobs.org/)
 * [airocketships.co](https://www.airocketships.co/)
 * [remoterocketship.com](https://www.remoterocketship.com/)
+* [virtualvocations.com](https://www.virtualvocations.com/)
+* [freshersworld.com](https://www.freshersworld.com/)
+* [justremote.co](https://justremote.co/)
+* [crossover.com](https://www.crossover.com/)
+* [simplyhired.com](https://www.simplyhired.com/)
+* [wellfound.com](https://wellfound.com/)
+* [dice.com](https://www.dice.com/)
+* [otta.com](https://app.otta.com/)
 
 Other lists
 
