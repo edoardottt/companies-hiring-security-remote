@@ -20,7 +20,6 @@ I'm not :) looking for a full remote position (EU)! See [edoardottt.com/cv](http
 | AirBnb | Some | Full remote okay | [Link](https://careers.airbnb.com/) | ? |
 | AirHouse | All | Full remote | [Link](https://jobs.lever.co/airhouse) | ? |
 | Alation | All | Full remote depending on the position | [Link](https://www.alation.com/careers/) | ? |
-| Alienvault | Some jobs | Full remote okay | [Link](http://jobs.jobvite.com/alienvault/) | ? |
 | Angle Health | All | Full remote | [Link](https://jobs.lever.co/AngleHealth) | ? |
 | Appsecconsulting | Some jobs | Full remote okay | [Link](https://www.appsecconsulting.com/company/careers/) | ? |
 | Arctic Wolf | Some | Full remote (Regional) | [Link](https://arcticwolf.com/company/careers/) | ? |
@@ -28,9 +27,8 @@ I'm not :) looking for a full remote position (EU)! See [edoardottt.com/cv](http
 | Astronomer | Most jobs | Full remote okay | [Link](https://www.astronomer.io/careers/#openings) | ? |
 | Atlassian | Most jobs | Full remore okay | [Link](https://www.atlassian.com/company/careers/all-jobs) | ? |
 | Aurora Innovation | Product Security | US Remote | [Link](https://aurora.tech/careers/) | No |
-| Auth0 | All | Full remote okay | [Link](https://auth0.com/careers) | ? |
 | bill.com |  | Some areas | [Link](https://www.bill.com/about-us/jobs) | ? |
-| Bishop Fox |  | Some areas | [Link](https://www.bishopfox.com/jobs/) | ? |
+| Bishop Fox |  | Some areas | [Link](https://bishopfox.com/careers) | ? |
 | Bitdefender | Some | Full remote US | [Link](https://www.bitdefender.com/company/job-opportunities/) | ? |
 | BlackKnight |  | Some areas | [Link](https://blackknight.wd1.myworkdayjobs.com/BKC/0/refreshFacet/318c8bb6f553100021d223d9780d30be) | ? |
 | Bravely | All | Full remote US | [Link](https://boards.greenhouse.io/bravely) | ? |
@@ -46,6 +44,7 @@ I'm not :) looking for a full remote position (EU)! See [edoardottt.com/cv](http
 | Coalfire Labs | ? | Full remote / Remote US | [Link](https://www.coalfire.com/Careers) | ? |
 | CodeSignal | All | Full remote | [Link](https://boards.greenhouse.io/codesignal/) | ? |
 | Coinbase | All | Full Remote US | [Link](https://www.coinbase.com/careers/positions) | ? |
+| Confluent | Some | Full remote | [Link](https://careers.confluent.io/) | ? |
 | Contrast Security | Some | Full remote | [Link](https://www.contrastsecurity.com/contrast-careers) | ? |
 | Corelight | Multiple | Full Remote | [Link](https://corelight.com/company/careers/) | ? |
 | Crowdstrike | Most jobs | Full remote / Remote US | [Link](https://www.crowdstrike.com/careers/) | ? |
@@ -87,7 +86,6 @@ I'm not :) looking for a full remote position (EU)! See [edoardottt.com/cv](http
 | Human Rights Watch | Some | Full remote | [Link](https://careers.hrw.org/) | ? |
 | Human Security | All | Full remote | [Link](https://www.humansecurity.com/company/careers) | ? |
 | Huntress | All | Full remote | [Link](https://www.huntress.com/company/careers) | ? |
-| Immerok | All | Full remote | [Link](https://www.immerok.io/careers) | ? |
 | ImmersiveLabs | Some | Full remote | [Link](https://www.immersivelabs.com/careers/) | ? |
 | Impel | All | Full remote | [Link](https://recruiting.paylocity.com/recruiting/jobs/All/8c8ec28a-de5e-44a4-9180-b30161bd0488/Impel) | ? |
 | Inquest | Some | Full US remote okay | [Link](https://inquest.net/) | ? |
@@ -101,14 +99,15 @@ I'm not :) looking for a full remote position (EU)! See [edoardottt.com/cv](http
 | LeafLink | All | Full remote | [Link](https://boards.greenhouse.io/leaflink/) | ? |
 | Ledn | Some | Full remote | [Link](https://ledn.io/careers) | ? |
 | Lets encrypt | All | US remote | [Link](https://letsencrypt.org/jobs/) | ? |
+| LevelBlue | Some jobs | Full remote okay | [Link](https://levelblue.com/careers) | ? |
 | Levels | All | Full remote | [Link](https://www.notion.so/Careers-at-Levels-3616891ed02d4c0787fd64227f9bc57a) | ? |
 | Leviathan Security Group | ? | Remote | [Link](https://www.leviathansecurity.com/careers) | ? |
 | LinkedIn | All | Remote | [Link](https://www.linkedin.com/job/home) | ? |
 | Mandiant (Google) | Some | Remote | [Link](https://www.google.com/about/careers/applications/jobs/results/) | ? |
 | Material Security | All | Full Remote | [Link](https://material.security/careers#available) | No |
 | Microsoft | PM | Remote US | [Link](https://careers.microsoft.com/) | ? |
-| Midi Health | All | Full remote | [Link](https://boards.greenhouse.io/midihealth) | ? |
-| mlean | All | Full remote | [Link](https://mlean.jobs.personio.com/) | ? |
+| Midi Health | All | Full remote | [Link](https://job-boards.greenhouse.io/midihealth) | ? |
+| mlean | All | Full remote | [Link](https://www.mlean.com/careers/) | ? |
 | Monogram Health | All | Full remote | [Link](https://recruiting2.ultipro.com/MON1026MONOH/JobBoard/bcaf2db0-50c8-4e2f-9d65-e8e00c882a25/?q=&o=postedDateDesc&f4=Ul4V2PqKgEuQizHPFQPobw) | ? |
 | Motion | All | Full remote | [Link](https://jobs.ashbyhq.com/motion) | ? |
 | Mozilla | All | Full remote depending on the position | [Link](https://careers.mozilla.org/) | ? |
@@ -138,7 +137,6 @@ I'm not :) looking for a full remote position (EU)! See [edoardottt.com/cv](http
 | Reddit | All | Full Remote US okay | [Link](https://www.redditinc.com/careers/) | ? |
 | ReversingLabs | ? | ? | [Link](https://reversinglabs.workable.com) | ? |
 | Rill Data | All | Full remote / Remote US | [Link](https://www.rilldata.com/careers) | ? |
-| RiskIQ | Some areas | Full remote | [Link](https://www.riskiq.com/about/careers/) | ? |
 | Roq.ad | All | Full remote | [Link](https://www.roq.ad/careers/) | ? |
 | Salesforce | Some | Full remote depending on the position | [Link](https://careers.salesforce.com/en/jobs/?search=&location=Remote&pagesize=200#results) | ? |
 | Samsara | Some | Full remote | [Link](https://www.samsara.com/company/careers/) | ? |
@@ -151,14 +149,14 @@ I'm not :) looking for a full remote position (EU)! See [edoardottt.com/cv](http
 | SVA | Multiple | DE Remote | [Link](https://www.sva.de/de/job-portal) | ? |
 | SwitchBoard | All | Full remote | [Link](https://boards.greenhouse.io/switchboard) | ? |
 | Tenable | Some Jobs | Full remote | [Link](https://www.tenable.com/careers) | ? |
-| Trail of Bits | Some areas | Full remote | [Link](https://boards.greenhouse.io/trailofbits) | ? |
+| Trail of Bits | Some areas | Full remote | [Link](https://www.trailofbits.com/careers/) | ? |
 | Tumblr | Some areas | Full remote | [Link](https://www.tumblr.com/jobs) | ? |
 | TwelveSec | All | Full remote | [Link](https://twelvesec.workable.com/) | ? |
 | Twilio | Some roles | Full remote | [Link](https://www.twilio.com/de/company/jobs#open-positions) | ? |
 | Unit42 Palo Alto | Research | Full remote | [Link](https://jobs.jobvite.com/paloaltonetworks/jobs/all-jobs) | ? |
 | US Bank | ? | US Remote | [Link](https://careers.usbank.com/global/en/search-results) | ? |
-| VMRay | ? | Full remote | [Link](https://careers.vmray.com/jobs/) | ? |
-| Wells Fargo | ? | Full remote | [Link](https://employment.wellsfargo.com/) | ? |
+| VMRay | ? | Full remote | [Link](https://vmray-gmbh.jobs.personio.de/) | ? |
+| Wells Fargo | ? | Full remote | [Link](https://www.wellsfargo.com/about/careers/) | ? |
 | Whym | All | Full remote | [Link](https://whym.breezy.hr/) | ? |
 | Wikimedia Foundation | ? | Full remote | [Link](https://wikimediafoundation.org/about/jobs/) | ? |
 | Xpansiv | All | Full remote | [Link](https://jobs.lever.co/Xpansiv%20) | ? |
