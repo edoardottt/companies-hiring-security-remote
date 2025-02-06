@@ -18,7 +18,7 @@ I'm not :) looking for a full remote position (EU)! See [edoardottt.com/cv](http
 | 1Password | All | Full remote | [Link](https://1password.com/careers) | ? |
 | Abnormal Security | Most jobs | Full remote okay | [Link](https://careers.abnormalsecurity.com/open-roles) | ? |
 | AirBnb | Some | Full remote okay | [Link](https://careers.airbnb.com/) | ? |
-| AirHouse | All | Full remote | [Link](https://jobs.lever.co/airhouse) | ? |
+| AirHouse | All | Full remote | [Link](https://www.airhouse.io/careers) | ? |
 | Alation | All | Full remote depending on the position | [Link](https://www.alation.com/careers/) | ? |
 | Angle Health | All | Full remote | [Link](https://jobs.lever.co/AngleHealth) | ? |
 | Appsecconsulting | Some jobs | Full remote okay | [Link](https://www.appsecconsulting.com/company/careers/) | ? |
