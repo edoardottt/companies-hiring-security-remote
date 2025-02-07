@@ -6,11 +6,6 @@ List of companies that hire security people full remote.
 
 Remote is meant to allow people from anywhere (or at least anywhere in a given timezone) without being forced to be in an office on a daily basis.
 
-<!--
-Currently working at Hacktive Security.
-I'm not :) looking for a full remote position (EU)! See [edoardottt.com/cv](https://edoardottt.com/cv).
--->
-
 ## List
 
 | Company | Areas hiring remote | Full/Regional remote | Job Postings | Open for contractors |
