@@ -84,7 +84,8 @@ Remote is meant to allow people from anywhere (or at least anywhere in a given t
 | Huntress | All | Full remote | [Link](https://www.huntress.com/company/careers) | ? |
 | ImmersiveLabs | Some | Full remote | [Link](https://www.immersivelabs.com/careers/) | ? |
 | Impel | All | Full remote | [Link](https://recruiting.paylocity.com/recruiting/jobs/All/8c8ec28a-de5e-44a4-9180-b30161bd0488/Impel) | ? |
-| Inquest | Some | Full US remote okay | [Link](https://inquest.net/) | ? |
+| Indeed | Some | Full remote | [Link](https://www.indeed.com/cmp/Indeed/about) | ? |
+| Inquest | Some | Full US remote okay | [Link](https://inquest.net/company/careers/) | ? |
 | InstaCart | All | Full Remote US | [Link](https://instacart.careers/current-openings/) | ? |
 | Intel | Some | Depending on the position | [Link](https://jobs.intel.com/) | ? |
 | Intuition Machines | All | Full remote | [Link](https://apply.workable.com/imachines/) | ? |
