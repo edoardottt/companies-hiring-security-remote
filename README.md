@@ -16,6 +16,7 @@ Remote is meant to allow people from anywhere (or at least anywhere in a given t
 | AirHouse | All | Full remote | [Link](https://www.airhouse.io/careers) | ? |
 | Alation | All | Full remote depending on the position | [Link](https://www.alation.com/careers/) | ? |
 | Angle Health | All | Full remote | [Link](https://jobs.lever.co/AngleHealth) | ? |
+| Anthropic | Some | Full remote US | [Link](https://www.anthropic.com/careers) | ? |
 | Appsecconsulting | Some jobs | Full remote okay | [Link](https://www.appsecconsulting.com/company/careers/) | ? |
 | Arctic Wolf | Some | Full remote (Regional) | [Link](https://arcticwolf.com/company/careers/) | ? |
 | Arize AI | All | Full remote | [Link](https://arize.com/careers) | ? |
@@ -87,6 +88,7 @@ Remote is meant to allow people from anywhere (or at least anywhere in a given t
 | Inquest | Some | Full US remote okay | [Link](https://inquest.net/) | ? |
 | InstaCart | All | Full Remote US | [Link](https://instacart.careers/current-openings/) | ? |
 | Intel | Some | Depending on the position | [Link](https://jobs.intel.com/) | ? |
+| Intuition Machines | All | Full remote | [Link](https://apply.workable.com/imachines/) | ? |
 | Jamf | Some | Full remote US | [Link](https://www.jamf.com/about/careers/) | ? |
 | Kaspersky | ? | Remote | [Link](https://careers.kaspersky.com) | ? |
 | Kivu | All | Full Remote US | [Link](https://kivuconsulting.com/careers/) | ? |
@@ -115,6 +117,7 @@ Remote is meant to allow people from anywhere (or at least anywhere in a given t
 | NOCD | All | Full remote US | [Link](https://www.treatmyocd.com/about-us/careers) | ? |
 | Nomad Health | All | Full remote | [Link](https://boards.greenhouse.io/nomadhealth) | ? |
 | Ontic | Some | Full remote | [Link](https://ontic.co/careers/#jobs) | ? |
+| OpenAI | Some | Full remote US | [Link](https://openai.com/careers/) | ? |
 | Orbital Sidekick | All | Full remote depending on the position | [Link](https://jobs.lever.co/orbitalsidekick) | ? |
 | Our Next Energy | All | Full remote depending on the position | [Link](https://recruiting.ultipro.com/OUR1002ONXE/JobBoard/5c7eeefc-e61c-417a-8468-f976a704a34d/?q=&o=postedDateDesc&w=&wc=&we=&wpst=) | ? |
 | Pagos Solutions | All | Full remote | [Link](https://jobs.ashbyhq.com/Pagos/) | ? |
