@@ -77,7 +77,6 @@ Remote is meant to allow people from anywhere (or at least anywhere in a given t
 | Google | Some | Full remote | [Link](https://careers.google.com/) | ? |
 | Gradle | Application Security Engineer | Full remote | [Link](https://boards.greenhouse.io/gradle/) |  |
 | Greenomy | All | Full remote | [Link](https://careers.greenomy.io/#jobs) | ? |
-| Growblocks | All | Full remote | [Link](https://thehub.io/startups/growblocks) | ? |
 | Heroku | Some | Full remote | [Link](https://www.heroku.com/careers/) | ? |
 | Horizon3.ai | Some | Full Remote US | [Link](https://www.horizon3.ai/join-our-team/) | ? |
 | Human Rights Watch | Some | Full remote | [Link](https://careers.hrw.org/) | ? |
