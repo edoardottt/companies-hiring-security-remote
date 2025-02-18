@@ -121,7 +121,7 @@ Remote is meant to allow people from anywhere (or at least anywhere in a given t
 | Orbital Sidekick | All | Full remote depending on the position | [Link](https://jobs.lever.co/orbitalsidekick) | ? |
 | Our Next Energy | All | Full remote depending on the position | [Link](https://recruiting.ultipro.com/OUR1002ONXE/JobBoard/5c7eeefc-e61c-417a-8468-f976a704a34d/?q=&o=postedDateDesc&w=&wc=&we=&wpst=) | ? |
 | Pagos Solutions | All | Full remote | [Link](https://jobs.ashbyhq.com/Pagos/) | ? |
-| Paradigm | All | Full remote | [Link](https://www.paradigm.inc/open-positions) | ? |
+| Paradigm | All | Full remote | [Link](https://www.paradigm.inc/careers) | ? |
 | phobos.io | All | Full remote okay | [Link](https://phobos.io/careers) | ? |
 | Platform.sh | All | Full remote | [Link](https://platform.sh/company/careers/) | ? |
 | Portside | All | Full remote | [Link](https://portside.co/about/#open_positions) | ? |
@@ -143,13 +143,12 @@ Remote is meant to allow people from anywhere (or at least anywhere in a given t
 | Samsara | Some | Full remote | [Link](https://www.samsara.com/company/careers/) | ? |
 | Scribd | All | Full remote | [Link](https://www.scribd.com/careers) | ? |
 | SecurityScoreCard | Some areas | Full remote | [Link](https://securityscorecard.com/company/careers) | ? |
-| Semmle | Some areas | Full remote | [Link](https://semmle.com/careers) | ? |
+| Semmle | Some areas | Full remote | [Link](https://www.github.careers/careers-home) | ? |
 | SimSpace | Some | Full remote US | [Link](https://www.simspace.com/careers) | ? |
 | Sounding Board  | All | Full remote | [Link](https://sounding-board-inc.breezy.hr/) | ? |
 | SpecterOps | Some | Full remote | [Link](https://specterops.io/careers) | ? |
 | Spotify | All | Full remote | [Link](https://www.lifeatspotify.com/jobs) | Yes |
 | SVA | Multiple | DE Remote | [Link](https://www.sva.de/de/job-portal) | ? |
-| SwitchBoard | All | Full remote | [Link](https://boards.greenhouse.io/switchboard) | ? |
 | Tenable | Some Jobs | Full remote | [Link](https://www.tenable.com/careers) | ? |
 | Trail of Bits | Some areas | Full remote | [Link](https://www.trailofbits.com/careers/) | ? |
 | Tumblr | Some areas | Full remote | [Link](https://www.tumblr.com/jobs) | ? |
