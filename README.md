@@ -143,7 +143,6 @@ Remote is meant to allow people from anywhere (or at least anywhere in a given t
 | Samsara | Some | Full remote | [Link](https://www.samsara.com/company/careers/) | ? |
 | Scribd | All | Full remote | [Link](https://www.scribd.com/careers) | ? |
 | SecurityScoreCard | Some areas | Full remote | [Link](https://securityscorecard.com/company/careers) | ? |
-| Semmle | Some areas | Full remote | [Link](https://www.github.careers/careers-home) | ? |
 | SimSpace | Some | Full remote US | [Link](https://www.simspace.com/careers) | ? |
 | Sounding Board  | All | Full remote | [Link](https://sounding-board-inc.breezy.hr/) | ? |
 | SpecterOps | Some | Full remote | [Link](https://specterops.io/careers) | ? |
