@@ -35,8 +35,10 @@ jobs:
         with:
           source: ./
           destination: ./_site
-      - name: Upload-artifact-${{ matrix.runs-on }}
+      - name: Upload artifact
         uses: actions/upload-artifact@v4
+        with:
+          path: ./
         
 
   # Deployment job
