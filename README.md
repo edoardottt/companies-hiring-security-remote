@@ -123,6 +123,7 @@ Remote is meant to allow people from anywhere (or at least anywhere in a given t
 | Pagos Solutions | All | Full remote | [Link](https://jobs.ashbyhq.com/Pagos/) | ? |
 | Paradigm | All | Full remote | [Link](https://www.paradigm.inc/careers) | ? |
 | phobos.io | All | Full remote okay | [Link](https://phobos.io/careers) | ? |
+| Pinterest | Some | Full remote US | [Link](https://www.pinterestcareers.com/jobs/?location=Remote) | ? |
 | Platform.sh | All | Full remote | [Link](https://platform.sh/company/careers/) | ? |
 | Portside | All | Full remote | [Link](https://portside.co/about/#open_positions) | ? |
 | Praetorian | All | Full Remote | [Link](https://www.praetorian.com/company/careers/) | ? |
@@ -139,6 +140,7 @@ Remote is meant to allow people from anywhere (or at least anywhere in a given t
 | ReversingLabs | ? | ? | [Link](https://reversinglabs.workable.com) | ? |
 | Rill Data | All | Full remote / Remote US | [Link](https://www.rilldata.com/careers) | ? |
 | Roq.ad | All | Full remote | [Link](https://www.roq.ad/careers/) | ? |
+| runZero | All | Full remote | [Link](https://www.runzero.com/about/careers/) | ? |
 | Salesforce | Some | Full remote depending on the position | [Link](https://careers.salesforce.com/en/jobs/?search=&location=Remote&pagesize=200#results) | ? |
 | Samsara | Some | Full remote | [Link](https://www.samsara.com/company/careers/) | ? |
 | Scribd | All | Full remote | [Link](https://www.scribd.com/careers) | ? |
