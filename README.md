@@ -14,6 +14,7 @@ Remote is meant to allow people from anywhere (or at least anywhere in a given t
 | Abnormal Security | Most jobs | Full remote okay | [Link](https://careers.abnormalsecurity.com/open-roles) | ? |
 | AirBnb | Some | Full remote okay | [Link](https://careers.airbnb.com/) | ? |
 | AirHouse | All | Full remote | [Link](https://www.airhouse.io/careers) | ? |
+| Aha! Labs | All | Regional remote | [Link](https://www.aha.io/company/careers/current-openings) | ? |
 | Alation | All | Full remote depending on the position | [Link](https://www.alation.com/careers/) | ? |
 | Angle Health | All | Full remote | [Link](https://jobs.lever.co/AngleHealth) | ? |
 | Anthropic | Some | Full remote US | [Link](https://www.anthropic.com/careers) | ? |
@@ -73,6 +74,7 @@ Remote is meant to allow people from anywhere (or at least anywhere in a given t
 | Fox-IT part of NCC Group | Some areas | Full remote / Remote EU | [Link](https://nccgroup.wd3.myworkdayjobs.com/NCC_Group) | ? |
 | Frequenz | All | Full remote | [Link](https://frequenz.com/careers/) | ? |
 | Ghost Security | All | Full remote | [Link](https://ghost.security/careers) | ? |
+| Gigs | All | Regional remote | [Link](https://gigs.com/careers#positions) | ? |
 | Gitlab | All | Full remote | [Link](https://about.gitlab.com/jobs/apply/) | ? |
 | Google | Some | Full remote | [Link](https://careers.google.com/) | ? |
 | Gradle | Application Security Engineer | Full remote | [Link](https://boards.greenhouse.io/gradle/) |  |
