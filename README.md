@@ -16,7 +16,7 @@ Remote is meant to allow people from anywhere (or at least anywhere in a given t
 | AirHouse | All | Full remote | [Link](https://www.airhouse.io/careers) | ? |
 | Aha! Labs | All | Regional remote | [Link](https://www.aha.io/company/careers/current-openings) | ? |
 | Alation | All | Full remote depending on the position | [Link](https://www.alation.com/careers/) | ? |
-| Angle Health | All | Full remote | [Link](https://www.anglehealth.com/careers) | ? |
+| Angle Health | Some | Full remote | [Link](https://www.anglehealth.com/careers) | ? |
 | Anthropic | Some | Full remote US | [Link](https://www.anthropic.com/careers) | ? |
 | Appsecconsulting | Some jobs | Full remote okay | [Link](https://www.appsecconsulting.com/company/careers/) | ? |
 | Arctic Wolf | Some | Full remote (Regional) | [Link](https://arcticwolf.com/company/careers/) | ? |
@@ -68,7 +68,6 @@ Remote is meant to allow people from anywhere (or at least anywhere in a given t
 | Figma | All | US/Canada remote | [Link](https://www.figma.com/careers) | No |
 | Fingerprint for success | All | Full remote | [Link](https://www.fingerprintforsuccess.com/careers) | ? |
 | Firebolt | Some areas | Full remote / Remote EU | [Link](https://www.firebolt.io/career) | ? |
-| FireEye (Trellix) | Most jobs | Full remote / Remote US | [Link](https://www.fireeye.com/company/jobs.html) | ? |
 | Fox-IT part of NCC Group | Some areas | Full remote / Remote EU | [Link](https://nccgroup.wd3.myworkdayjobs.com/NCC_Group) | ? |
 | Frequenz | All | Full remote | [Link](https://frequenz.com/careers/) | ? |
 | Ghost Security | All | Full remote | [Link](https://ghost.security/careers) | ? |
@@ -158,6 +157,7 @@ Remote is meant to allow people from anywhere (or at least anywhere in a given t
 | Temporal | Some Jobs | US remote | [Link](https://temporal.io/careers) | ? |
 | Thirdfort | Some Jobs | UK remote | [Link](https://www.thirdfort.com/careers/) | ? |
 | Trail of Bits | Some areas | Full remote | [Link](https://www.trailofbits.com/careers/) | ? |
+| Trellix | Some jobs | Partially Remote | [Link](https://careers.trellix.com/) | ? |
 | Tumblr | Some areas | Full remote | [Link](https://www.tumblr.com/jobs) | ? |
 | TwelveSec | All | Full remote | [Link](https://twelvesec.workable.com/) | ? |
 | Twilio | Some roles | Full remote | [Link](https://www.twilio.com/de/company/jobs#open-positions) | ? |
