@@ -18,6 +18,7 @@ Co-maintainer: [@pbarry25](https://github.com/pbarry25)
 | AirHouse | All | Full remote | [Link](https://www.airhouse.io/careers) | ? |
 | Aha! Labs | All | Regional remote | [Link](https://www.aha.io/company/careers/current-openings) | ? |
 | Alation | All | Full remote depending on the position | [Link](https://www.alation.com/careers/) | ? |
+| Altera Digital Health | Some | Regional remote | [Link](https://www.alterahealth.com/jobs) | ? |
 | Angle Health | Some | Full remote | [Link](https://www.anglehealth.com/careers) | ? |
 | Anthropic | Some | Full remote US | [Link](https://www.anthropic.com/careers) | ? |
 | Appsecconsulting | Some jobs | Full remote okay | [Link](https://www.appsecconsulting.com/company/careers/) | ? |
@@ -53,6 +54,7 @@ Co-maintainer: [@pbarry25](https://github.com/pbarry25)
 | DataDome | Some | Full remote (Based in France mainly, some in US) | [Link](https://www.welcometothejungle.com/en/companies/datadome/jobs) | ? |
 | DaySlice | All | Full remote | [Link](https://hello.dayslice.com/about-dayslice) | ? |
 | DCSO | All | Full remote | [Link](https://dcso.de/de/talente/) | ? |
+| Deepwatch | Some | Full remote | [Link](https://www.deepwatch.com/jobs/) | ? |
 | Dell Secure Works | Some | Regional remote | [Link](https://jobs.dell.com) | ? |
 | Deutsche Bahn / Systel | Some | Full remote (mostly Germany) | [Link](https://karriere.deutschebahn.com/) | ? |
 | Diligent Robotics | All | Full remote depending on the position | [Link](https://boards.greenhouse.io/diligentrobotics) | ? |
@@ -104,6 +106,7 @@ Co-maintainer: [@pbarry25](https://github.com/pbarry25)
 | Lightning Labs | All | Remote | [Link](https://lightning.engineering/join-us/) | ? |
 | LinkedIn | All | Remote | [Link](https://www.linkedin.com/job/home) | ? |
 | Mandiant (Google) | Some | Remote | [Link](https://www.google.com/about/careers/applications/jobs/results/) | ? |
+| Marriott | Some | Full remote | [Link](https://careers.marriott.com) | ? |
 | Material Security | All | Full Remote | [Link](https://material.security/careers#available) | No |
 | Meta | Some roles | Full remote | [Link](https://www.metacareers.com/) | ? |
 | Microsoft | PM | Remote US | [Link](https://careers.microsoft.com/) | ? |
