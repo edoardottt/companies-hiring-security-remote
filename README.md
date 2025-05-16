@@ -80,6 +80,7 @@ Co-maintainer: [@pbarry25](https://github.com/pbarry25)
 | Google | Some | Full remote | [Link](https://careers.google.com/) | ? |
 | Gradle | Application Security Engineer | Full remote | [Link](https://boards.greenhouse.io/gradle/) |  |
 | Greenomy | All | Full remote | [Link](https://careers.greenomy.io/#jobs) | ? |
+| Hacktive Security | All | Full remote | [Link](https://www.hacktivesecurity.com/careers/) | Yes |
 | Heroku | Some | Full remote | [Link](https://www.heroku.com/careers/) | ? |
 | Horizon3.ai | Some | Full Remote US | [Link](https://www.horizon3.ai/join-our-team/) | ? |
 | Human Rights Watch | Some | Full remote | [Link](https://careers.hrw.org/) | ? |
