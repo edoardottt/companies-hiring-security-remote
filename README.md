@@ -62,7 +62,7 @@ Co-maintainer: [@pbarry25](https://github.com/pbarry25)
 | DNSFilter | All | Full remote (mainly in US) | [Link](https://apply.workable.com/dnsfilter/#jobs) |  |
 | Dow Jones | On a case by case basis | ? | [Link](https://dowjones.jobs/) | ? |
 | Doyensec | Application Security Engineer | Full remote | [Link](https://www.careers-page.com/doyensec-llc) | ? |
-| Dragos | Some | US remote | [Link](https://careers.dragos.com/jobs) | ? |
+| Dragos | Some | US remote | [Link](https://www.dragos.com/careers/) | ? |
 | Dropbox | All | Full Remote | [Link](https://jobs.dropbox.com/all-jobs) | ? |
 | Elastic | Some roles | Full remote | [Link](https://www.elastic.co/about/careers/#engineering) | ? |
 | Enable Security | Security | Full remote | [Link](https://de.linkedin.com/company/enablesecurity) | ? |
@@ -105,6 +105,7 @@ Co-maintainer: [@pbarry25](https://github.com/pbarry25)
 | Leviathan Security Group | ? | Remote | [Link](https://www.leviathansecurity.com/careers) | ? |
 | Lightning Labs | All | Remote | [Link](https://lightning.engineering/join-us/) | ? |
 | LinkedIn | All | Remote | [Link](https://www.linkedin.com/job/home) | ? |
+| LiveKit | All | Full remote | [Link](https://livekit.io/careers) | ? |
 | Mandiant (Google) | Some | Remote | [Link](https://www.google.com/about/careers/applications/jobs/results/) | ? |
 | Marriott | Some | Full remote | [Link](https://careers.marriott.com) | ? |
 | Material Security | All | Full Remote | [Link](https://material.security/careers#available) | No |
@@ -122,6 +123,7 @@ Co-maintainer: [@pbarry25](https://github.com/pbarry25)
 | Nexus | All | Full remote | [Link](https://www.nexus.gg/careers) | ? |
 | NOCD | All | Full remote US | [Link](https://www.treatmyocd.com/about-us/careers) | ? |
 | Nomad Health | All | Full remote | [Link](https://boards.greenhouse.io/nomadhealth) | ? |
+| Oneleet | All | Full remote US | [Link](https://www.ycombinator.com/companies/oneleet/jobs) | ? |
 | Ontic | Some | Full remote | [Link](https://ontic.co/careers/#jobs) | ? |
 | OpenAI | Some | Full remote US | [Link](https://openai.com/careers/) | ? |
 | Orbital Sidekick | All | Full remote depending on the position | [Link](https://jobs.lever.co/orbitalsidekick) | ? |
@@ -135,8 +137,11 @@ Co-maintainer: [@pbarry25](https://github.com/pbarry25)
 | Portside | All | Full remote | [Link](https://portside.co/about/#open_positions) | ? |
 | Praetorian | All | Full Remote | [Link](https://www.praetorian.com/company/careers/) | ? |
 | Prelay | All | Full remote US | [Link](https://jobs.lever.co/prelay) | ? |
+| Prelim | All | Full remote | [Link](https://prelim.com/careers) | ? |
 | Prelude | All | Full remote | [Link](https://angel.co/company/prelude-1/jobs) | ? |
+| Privy | Some | Full remote | [Link](https://www.privy.io/careers) | ? |
 | Project Discovery | All | Full remote | [Link](https://boards.greenhouse.io/projectdiscoveryinc) | ? |
+| promptfoo | Some | Full remote | [Link](https://www.promptfoo.dev/careers/) | ? |
 | Proofpoint | Some | Regional remote | [Link](https://proofpoint.wd5.myworkdayjobs.com/ProofpointCareers) | ? |
 | Protonmail | Some | Full remote | [Link](https://careers.proton.me/#positions) | ? |
 | Razor Group | Some | Full remote depending on the position | [Link](https://www.razor-group.com/job-openings) | ? |
@@ -158,8 +163,9 @@ Co-maintainer: [@pbarry25](https://github.com/pbarry25)
 | SpecterOps | Some | Full remote | [Link](https://specterops.io/careers) | ? |
 | Spotify | All | Full remote | [Link](https://www.lifeatspotify.com/jobs) | Yes |
 | SVA | Multiple | DE Remote | [Link](https://www.sva.de/de/job-portal) | ? |
-| Tenable | Some Jobs | Full remote | [Link](https://www.tenable.com/careers) | ? |
+| Teleport | Some | Full remote | [Link](https://jobs.lever.co/teleport) | ? |
 | Temporal | Some Jobs | US remote | [Link](https://temporal.io/careers) | ? |
+| Tenable | Some Jobs | Full remote | [Link](https://www.tenable.com/careers) | ? |
 | Thirdfort | Some Jobs | UK remote | [Link](https://www.thirdfort.com/careers/) | ? |
 | Trail of Bits | Some areas | Full remote | [Link](https://www.trailofbits.com/careers/) | ? |
 | Trellix | Some jobs | Partially Remote | [Link](https://careers.trellix.com/) | ? |
