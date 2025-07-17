@@ -44,12 +44,13 @@ Co-maintainer: [@pbarry25](https://github.com/pbarry25)
 | Cloudflare | Some | Full remote depending on the position | [Link](https://www.cloudflare.com/careers/jobs/?department=Security) | ? |
 | Coalfire Labs | ? | Full remote / Remote US | [Link](https://www.coalfire.com/Careers) | ? |
 | CodeSignal | All | Full remote | [Link](https://codesignal.com/careers/) | ? |
-| Coinbase | All | Full Remote US | [Link](https://www.coinbase.com/careers/positions) | ? |
+| Coinbase | All | Full remote US | [Link](https://www.coinbase.com/careers/positions) | ? |
 | Confluent | Some | Full remote | [Link](https://careers.confluent.io/) | ? |
 | Contrast Security | Some | Full remote | [Link](https://www.contrastsecurity.com/contrast-careers) | ? |
-| Corelight | Multiple | Full Remote | [Link](https://corelight.com/company/careers/) | ? |
-| Crowdstrike | Most jobs | Full remote / Remote US | [Link](https://www.crowdstrike.com/careers/) | ? |
-| Cruise | All | Full Remote | [Link](https://getcruise.com/careers/jobs/) | ? |
+| Corelight | Multiple | Full remote | [Link](https://corelight.com/company/careers/) | ? |
+| CrowdStrike | Most jobs | Full remote / Remote US | [Link](https://www.crowdstrike.com/careers/) | ? |
+| Cruise | All | Full remote | [Link](https://getcruise.com/careers/jobs/) | ? |
+| CyberArk | Some | Full remote US | [Link](https://www.cyberark.com/careers/) | ? |
 | Datadog | Some | Full remote | [Link](https://careers.datadoghq.com/remote/) | ? |
 | DataDome | Some | Full remote (Based in France mainly, some in US) | [Link](https://www.welcometothejungle.com/en/companies/datadome/jobs) | ? |
 | DaySlice | All | Full remote | [Link](https://hello.dayslice.com/about-dayslice) | ? |
@@ -63,10 +64,10 @@ Co-maintainer: [@pbarry25](https://github.com/pbarry25)
 | Dow Jones | On a case by case basis | ? | [Link](https://dowjones.jobs/) | ? |
 | Doyensec | Application Security Engineer | Full remote | [Link](https://www.careers-page.com/doyensec-llc) | ? |
 | Dragos | Some | US remote | [Link](https://www.dragos.com/careers/) | ? |
-| Dropbox | All | Full Remote | [Link](https://jobs.dropbox.com/all-jobs) | ? |
+| Dropbox | All | Full remote | [Link](https://jobs.dropbox.com/all-jobs) | ? |
 | Elastic | Some roles | Full remote | [Link](https://www.elastic.co/about/careers/#engineering) | ? |
 | Enable Security | Security | Full remote | [Link](https://de.linkedin.com/company/enablesecurity) | ? |
-| ExtraHop | All | Full Remote | [Link](https://www.extrahop.com/company/careers/) | ? |
+| ExtraHop | All | Full remote | [Link](https://www.extrahop.com/company/careers/) | ? |
 | Fastly | All | Full remote | [Link](https://www.fastly.com/about/careers) | ? |
 | Fieldguide | All | Full remote US | [Link](https://www.fieldguide.io/careers) | ? |
 | Figma | All | US/Canada remote | [Link](https://www.figma.com/careers) | No |
@@ -80,8 +81,9 @@ Co-maintainer: [@pbarry25](https://github.com/pbarry25)
 | Google | Some | Full remote | [Link](https://careers.google.com/) | ? |
 | Gradle | Application Security Engineer | Full remote | [Link](https://boards.greenhouse.io/gradle/) |  |
 | Greenomy | All | Full remote | [Link](https://careers.greenomy.io/#jobs) | ? |
+| GuidePoint | Some | Full remote | [Link](https://www.guidepointsecurity.com/careers/) | ? |
 | Heroku | Some | Full remote | [Link](https://www.heroku.com/careers/) | ? |
-| Horizon3.ai | Some | Full Remote US | [Link](https://www.horizon3.ai/join-our-team/) | ? |
+| Horizon3.ai | Some | Full remote US | [Link](https://www.horizon3.ai/join-our-team/) | ? |
 | Human Rights Watch | Some | Full remote | [Link](https://careers.hrw.org/) | ? |
 | Human Security | All | Full remote | [Link](https://www.humansecurity.com/company/careers) | ? |
 | Huntress | All | Full remote | [Link](https://www.huntress.com/company/careers) | ? |
@@ -89,12 +91,12 @@ Co-maintainer: [@pbarry25](https://github.com/pbarry25)
 | Impel | All | Full remote | [Link](https://recruiting.paylocity.com/recruiting/jobs/All/8c8ec28a-de5e-44a4-9180-b30161bd0488/Impel) | ? |
 | Indeed | Some | Full remote | [Link](https://www.indeed.com/cmp/Indeed/about) | ? |
 | Inquest | Some | Full US remote okay | [Link](https://inquest.net/company/careers/) | ? |
-| InstaCart | All | Full Remote US | [Link](https://instacart.careers/current-openings/) | ? |
+| InstaCart | All | Full remote US | [Link](https://instacart.careers/current-openings/) | ? |
 | Intel | Some | Depending on the position | [Link](https://jobs.intel.com/) | ? |
 | Intuition Machines | All | Full remote | [Link](https://apply.workable.com/imachines/) | ? |
 | Jamf | Some | Full remote US | [Link](https://www.jamf.com/about/careers/) | ? |
 | Kaspersky | ? | Remote | [Link](https://careers.kaspersky.com) | ? |
-| Kivu | All | Full Remote US | [Link](https://www.kivuconsulting.com/careers/) | ? |
+| Kivu | All | Full remote US | [Link](https://www.kivuconsulting.com/careers/) | ? |
 | Kraken | Most Roles | Full remote | [Link](https://jobs.lever.co/kraken) | ? |
 | Kroll | Some | Full remote (Regional) | [Link](https://careers.kroll.com/en) | ? |
 | LeafLink | All | Full remote | [Link](https://boards.greenhouse.io/leaflink/) | ? |
@@ -108,7 +110,7 @@ Co-maintainer: [@pbarry25](https://github.com/pbarry25)
 | LiveKit | All | Full remote | [Link](https://livekit.io/careers) | ? |
 | Mandiant (Google) | Some | Remote | [Link](https://www.google.com/about/careers/applications/jobs/results/) | ? |
 | Marriott | Some | Full remote | [Link](https://careers.marriott.com) | ? |
-| Material Security | All | Full Remote | [Link](https://material.security/careers#available) | No |
+| Material Security | All | Full remote | [Link](https://material.security/careers#available) | No |
 | Meta | Some roles | Full remote | [Link](https://www.metacareers.com/) | ? |
 | Microsoft | PM | Remote US | [Link](https://careers.microsoft.com/) | ? |
 | Midi Health | All | Full remote | [Link](https://job-boards.greenhouse.io/midihealth) | ? |
@@ -135,7 +137,7 @@ Co-maintainer: [@pbarry25](https://github.com/pbarry25)
 | Pinterest | Some | Full remote US | [Link](https://www.pinterestcareers.com/jobs/?location=Remote) | ? |
 | Platform.sh | All | Full remote | [Link](https://platform.sh/company/careers/) | ? |
 | Portside | All | Full remote | [Link](https://portside.co/about/#open_positions) | ? |
-| Praetorian | All | Full Remote | [Link](https://www.praetorian.com/company/careers/) | ? |
+| Praetorian | All | Full remote | [Link](https://www.praetorian.com/company/careers/) | ? |
 | Prelay | All | Full remote US | [Link](https://jobs.lever.co/prelay) | ? |
 | Prelim | All | Full remote | [Link](https://prelim.com/careers) | ? |
 | Prelude | All | Full remote | [Link](https://angel.co/company/prelude-1/jobs) | ? |
@@ -148,7 +150,7 @@ Co-maintainer: [@pbarry25](https://github.com/pbarry25)
 | Recon Infosec | All | Full remote | [Link](https://www.reconinfosec.com/careers/) | ? |
 | Recorded Future | Some areas | Full remote | [Link](https://www.recordedfuture.com/careers/#job-post) | No |
 | Red Canary | All | Some Remote | [Link](https://redcanary.com/job-openings/) | ? |
-| Reddit | All | Full Remote US okay | [Link](https://www.redditinc.com/careers/) | ? |
+| Reddit | All | Full remote US okay | [Link](https://www.redditinc.com/careers/) | ? |
 | ReversingLabs | ? | ? | [Link](https://reversinglabs.workable.com) | ? |
 | Rill Data | All | Full remote / Remote US | [Link](https://www.rilldata.com/careers) | ? |
 | Roq.ad | All | Full remote | [Link](https://www.roq.ad/careers/) | ? |
