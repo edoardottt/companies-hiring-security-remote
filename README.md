@@ -38,6 +38,7 @@ Co-maintainer: [@pbarry25](https://github.com/pbarry25)
 | CAST AI | All | Full remote | [Link](https://castai.teamtailor.com/jobs) | ? |
 | Category Labs | Some | Full remote | [Link](https://www.category.xyz/careers) | ? |
 | Certego | Some | Full remote | [Link](https://www.certego.net/company/careers/) | ? |
+| Cilo | Some | Regional remote | [Link](https://www.clio.com/about/careers/) | ? |
 | Cimpress | All | Full remote | [Link](https://jobs.vista.com/Cimpress-Technology/go/CT/7796800/) | ? |
 | Cisco | Some | Full remote | [Link](https://jobs.cisco.com/jobs/SearchJobs) | ? |
 | Cisco Talos | All | Full remote | [Link](https://www.talosintelligence.com/careers) | ? |
@@ -132,6 +133,7 @@ Co-maintainer: [@pbarry25](https://github.com/pbarry25)
 | Orbital Sidekick | All | Full remote depending on the position | [Link](https://jobs.lever.co/orbitalsidekick) | ? |
 | Our Next Energy | All | Full remote depending on the position | [Link](https://recruiting.ultipro.com/OUR1002ONXE/JobBoard/5c7eeefc-e61c-417a-8468-f976a704a34d/?q=&o=postedDateDesc&w=&wc=&we=&wpst=) | ? |
 | Pagos Solutions | All | Full remote | [Link](https://jobs.ashbyhq.com/Pagos/) | ? |
+| Panther | All | Full remote | [Link](https://panther.com/company/careers) | ? |
 | Paradigm | All | Full remote | [Link](https://www.paradigm.inc/careers) | ? |
 | Paytient | Some | US remote | [Link](https://job-boards.greenhouse.io/paytient) | ? |
 | phobos.io | All | Full remote okay | [Link](https://phobos.io/careers) | ? |
@@ -147,6 +149,7 @@ Co-maintainer: [@pbarry25](https://github.com/pbarry25)
 | promptfoo | Some | Full remote | [Link](https://www.promptfoo.dev/careers/) | ? |
 | Proofpoint | Some | Regional remote | [Link](https://proofpoint.wd5.myworkdayjobs.com/ProofpointCareers) | ? |
 | Protonmail | Some | Full remote | [Link](https://careers.proton.me/#positions) | ? |
+| Rad AI | All | Full remote US | [Link](https://www.radai.com/careers) | ? |
 | Razor Group | Some | Full remote depending on the position | [Link](https://www.razor-group.com/job-openings) | ? |
 | Recon Infosec | All | Full remote | [Link](https://www.reconinfosec.com/careers/) | ? |
 | Recorded Future | Some areas | Full remote | [Link](https://www.recordedfuture.com/careers/#job-post) | No |
@@ -162,6 +165,7 @@ Co-maintainer: [@pbarry25](https://github.com/pbarry25)
 | Scribd | All | Full remote | [Link](https://www.scribd.com/careers) | ? |
 | SecurityScoreCard | Some areas | Full remote | [Link](https://securityscorecard.com/company/careers) | ? |
 | SimSpace | Some | Full remote US | [Link](https://www.simspace.com/careers) | ? |
+| Socket | All | Full remote | [Link](https://socket.dev/careers) | ? |
 | Sounding Board  | All | Full remote | [Link](https://sounding-board-inc.breezy.hr/) | ? |
 | SpecterOps | Some | Full remote | [Link](https://specterops.io/careers) | ? |
 | Spotify | All | Full remote | [Link](https://www.lifeatspotify.com/jobs) | Yes |
