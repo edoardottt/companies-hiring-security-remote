@@ -26,7 +26,7 @@ Co-maintainer: [@pbarry25](https://github.com/pbarry25)
 | Arize AI | All | Full remote | [Link](https://arize.com/careers) | ? |
 | Astronomer | Most jobs | Full remote okay | [Link](https://www.astronomer.io/careers/#openings) | ? |
 | Atlassian | Most jobs | Full remore okay | [Link](https://www.atlassian.com/company/careers/all-jobs) | ? |
-| Aurora Innovation | Product Security | US Remote | [Link](https://aurora.tech/careers/) | No |
+| Aurora Innovation | Product Security | US remote | [Link](https://aurora.tech/careers/) | No |
 | bill.com |  | Some areas | [Link](https://www.bill.com/about-us/jobs) | ? |
 | Bishop Fox |  | Some areas | [Link](https://bishopfox.com/careers) | ? |
 | Bitdefender | Some | Full remote US | [Link](https://www.bitdefender.com/company/job-opportunities/) | ? |
@@ -123,8 +123,9 @@ Co-maintainer: [@pbarry25](https://github.com/pbarry25)
 | Mozilla | All | Full remote depending on the position | [Link](https://careers.mozilla.org/) | ? |
 | Netflix | Some | Full remote depending on the position | [Link](https://jobs.netflix.com/) | ? |
 | Netskope | Some | Full remote | [Link](https://www.netskope.com/company/careers/open-positions) | ? |
-| Nextrons Systems | All | Partially Remote (weekly checkin to the office in DE) | [Link](https://www.nextron-systems.com/jobs/) | ? |
+| Nextrons Systems | All | Partially remote (weekly checkin to the office in DE) | [Link](https://www.nextron-systems.com/jobs/) | ? |
 | Nexus | All | Full remote | [Link](https://www.nexus.gg/careers) | ? |
+| netwrix | Some | Regional remote | [Lnk](https://ats.rippling.com/netwrix-corporation/jobs) | ? |
 | NOCD | All | Full remote US | [Link](https://www.treatmyocd.com/about-us/careers) | ? |
 | Nomad Health | All | Full remote | [Link](https://boards.greenhouse.io/nomadhealth) | ? |
 | Oneleet | All | Full remote US | [Link](https://www.ycombinator.com/companies/oneleet/jobs) | ? |
@@ -153,7 +154,7 @@ Co-maintainer: [@pbarry25](https://github.com/pbarry25)
 | Razor Group | Some | Full remote depending on the position | [Link](https://www.razor-group.com/job-openings) | ? |
 | Recon Infosec | All | Full remote | [Link](https://www.reconinfosec.com/careers/) | ? |
 | Recorded Future | Some areas | Full remote | [Link](https://www.recordedfuture.com/careers/#job-post) | No |
-| Red Canary | All | Some Remote | [Link](https://redcanary.com/job-openings/) | ? |
+| Red Canary | All | Some remote | [Link](https://redcanary.com/job-openings/) | ? |
 | Reddit | All | Full remote US okay | [Link](https://www.redditinc.com/careers/) | ? |
 | ReversingLabs | ? | ? | [Link](https://reversinglabs.workable.com) | ? |
 | Rill Data | All | Full remote / Remote US | [Link](https://www.rilldata.com/careers) | ? |
@@ -169,18 +170,19 @@ Co-maintainer: [@pbarry25](https://github.com/pbarry25)
 | Sounding Board  | All | Full remote | [Link](https://sounding-board-inc.breezy.hr/) | ? |
 | SpecterOps | Some | Full remote | [Link](https://specterops.io/careers) | ? |
 | Spotify | All | Full remote | [Link](https://www.lifeatspotify.com/jobs) | Yes |
-| SVA | Multiple | DE Remote | [Link](https://www.sva.de/de/job-portal) | ? |
+| SVA | Multiple | DE remote | [Link](https://www.sva.de/de/job-portal) | ? |
 | Teleport | Some | Full remote | [Link](https://jobs.lever.co/teleport) | ? |
 | Temporal | Some Jobs | US remote | [Link](https://temporal.io/careers) | ? |
 | Tenable | Some Jobs | Full remote | [Link](https://www.tenable.com/careers) | ? |
 | Thirdfort | Some Jobs | UK remote | [Link](https://www.thirdfort.com/careers/) | ? |
 | Trail of Bits | Some areas | Full remote | [Link](https://www.trailofbits.com/careers/) | ? |
-| Trellix | Some jobs | Partially Remote | [Link](https://careers.trellix.com/) | ? |
+| Trellix | Some jobs | Partially remote | [Link](https://careers.trellix.com/) | ? |
 | Tumblr | Some areas | Full remote | [Link](https://www.tumblr.com/jobs) | ? |
 | TwelveSec | All | Full remote | [Link](https://twelvesec.workable.com/) | ? |
 | Twilio | Some roles | Full remote | [Link](https://www.twilio.com/de/company/jobs#open-positions) | ? |
 | Unit42 Palo Alto | Research | Full remote | [Link](https://jobs.jobvite.com/paloaltonetworks/jobs/all-jobs) | ? |
-| US Bank | ? | US Remote | [Link](https://careers.usbank.com/global/en/search-results) | ? |
+| US Bank | ? | US remote | [Link](https://careers.usbank.com/global/en/search-results) | ? |
+| Vanta | Some | US remote | [Link](https://www.vanta.com/company/careers#open-roles) | ? |
 | VMRay | ? | Full remote | [Link](https://vmray-gmbh.jobs.personio.de/) | ? |
 | Wells Fargo | ? | Full remote | [Link](https://www.wellsfargo.com/about/careers/) | ? |
 | Whym | All | Full remote | [Link](https://whym.breezy.hr/) | ? |
