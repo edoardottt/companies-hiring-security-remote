@@ -125,7 +125,7 @@ Co-maintainer: [@pbarry25](https://github.com/pbarry25)
 | Netskope | Some | Full remote | [Link](https://www.netskope.com/company/careers/open-positions) | ? |
 | Nextrons Systems | All | Partially remote (weekly checkin to the office in DE) | [Link](https://www.nextron-systems.com/jobs/) | ? |
 | Nexus | All | Full remote | [Link](https://www.nexus.gg/careers) | ? |
-| netwrix | Some | Regional remote | [Lnk](https://ats.rippling.com/netwrix-corporation/jobs) | ? |
+| netwrix | Some | Regional remote | [Link](https://ats.rippling.com/netwrix-corporation/jobs) | ? |
 | NOCD | All | Full remote US | [Link](https://www.treatmyocd.com/about-us/careers) | ? |
 | Nomad Health | All | Full remote | [Link](https://boards.greenhouse.io/nomadhealth) | ? |
 | Oneleet | All | Full remote US | [Link](https://www.ycombinator.com/companies/oneleet/jobs) | ? |
