@@ -38,7 +38,7 @@ Co-maintainer: [@pbarry25](https://github.com/pbarry25)
 | CAST AI | All | Full remote | [Link](https://castai.teamtailor.com/jobs) | ? |
 | Category Labs | Some | Full remote | [Link](https://www.category.xyz/careers) | ? |
 | Certego | Some | Full remote | [Link](https://www.certego.net/company/careers/) | ? |
-| Cilo | Some | Regional remote | [Link](https://www.clio.com/about/careers/) | ? |
+| Clio | Some | Regional remote | [Link](https://www.clio.com/about/careers/) | ? |
 | Cimpress | All | Full remote | [Link](https://jobs.vista.com/Cimpress-Technology/go/CT/7796800/) | ? |
 | Cisco | Some | Full remote | [Link](https://jobs.cisco.com/jobs/SearchJobs) | ? |
 | Cisco Talos | All | Full remote | [Link](https://www.talosintelligence.com/careers) | ? |
@@ -150,6 +150,7 @@ Co-maintainer: [@pbarry25](https://github.com/pbarry25)
 | promptfoo | Some | Full remote | [Link](https://www.promptfoo.dev/careers/) | ? |
 | Proofpoint | Some | Regional remote | [Link](https://proofpoint.wd5.myworkdayjobs.com/ProofpointCareers) | ? |
 | Protonmail | Some | Full remote | [Link](https://careers.proton.me/#positions) | ? |
+| Quanata | Some | Full remote US | [Link](https://job-boards.greenhouse.io/quanata) | ? |
 | Rad AI | All | Full remote US | [Link](https://www.radai.com/careers) | ? |
 | Razor Group | Some | Full remote depending on the position | [Link](https://www.razor-group.com/job-openings) | ? |
 | Recon Infosec | All | Full remote | [Link](https://www.reconinfosec.com/careers/) | ? |
@@ -168,6 +169,7 @@ Co-maintainer: [@pbarry25](https://github.com/pbarry25)
 | SimSpace | Some | Full remote US | [Link](https://www.simspace.com/careers) | ? |
 | Socket | All | Full remote | [Link](https://socket.dev/careers) | ? |
 | Sounding Board  | All | Full remote | [Link](https://sounding-board-inc.breezy.hr/) | ? |
+| Source Code | Some | Full remote US | [Link](https://recruitingbypaycor.com/career/CareerHome.action?clientId=8a7883c66993b6c6016997a033e50640) | ? |
 | SpecterOps | Some | Full remote | [Link](https://specterops.io/careers) | ? |
 | Spotify | All | Full remote | [Link](https://www.lifeatspotify.com/jobs) | Yes |
 | SVA | Multiple | DE remote | [Link](https://www.sva.de/de/job-portal) | ? |
