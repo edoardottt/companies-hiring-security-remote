@@ -101,6 +101,7 @@ Co-maintainer: [@pbarry25](https://github.com/pbarry25)
 | Kivu | All | Full remote US | [Link](https://www.kivuconsulting.com/careers/) | ? |
 | Kraken | Most Roles | Full remote | [Link](https://jobs.lever.co/kraken) | ? |
 | Kroll | Some | Full remote (Regional) | [Link](https://careers.kroll.com/en) | ? |
+| LaunchDarkly | All | US remote | [Link](https://launchdarkly.com/careers/) | ? |
 | LeafLink | All | Full remote | [Link](https://boards.greenhouse.io/leaflink/) | ? |
 | Ledn | Some | Full remote | [Link](https://ledn.io/careers) | ? |
 | Let's Encrypt | All | US remote | [Link](https://letsencrypt.org/jobs/) | ? |
@@ -167,6 +168,7 @@ Co-maintainer: [@pbarry25](https://github.com/pbarry25)
 | Scribd | All | Full remote | [Link](https://www.scribd.com/careers) | ? |
 | SecurityScoreCard | Some areas | Full remote | [Link](https://securityscorecard.com/company/careers) | ? |
 | SimSpace | Some | Full remote US | [Link](https://www.simspace.com/careers) | ? |
+| SmarterDx | All | US remote | [Link](https://www.smarterdx.com/careers) | ? |
 | Socket | All | Full remote | [Link](https://socket.dev/careers) | ? |
 | Sounding Board  | All | Full remote | [Link](https://sounding-board-inc.breezy.hr/) | ? |
 | Source Code | Some | Full remote US | [Link](https://recruitingbypaycor.com/career/CareerHome.action?clientId=8a7883c66993b6c6016997a033e50640) | ? |
@@ -177,6 +179,7 @@ Co-maintainer: [@pbarry25](https://github.com/pbarry25)
 | Temporal | Some Jobs | US remote | [Link](https://temporal.io/careers) | ? |
 | Tenable | Some Jobs | Full remote | [Link](https://www.tenable.com/careers) | ? |
 | Thirdfort | Some Jobs | UK remote | [Link](https://www.thirdfort.com/careers/) | ? |
+| ThreatMark | Some | Full remote | [Link](https://www.threatmark.com/careers/) | ? |
 | Trail of Bits | Some areas | Full remote | [Link](https://www.trailofbits.com/careers/) | ? |
 | Trellix | Some jobs | Partially remote | [Link](https://careers.trellix.com/) | ? |
 | Tumblr | Some areas | Full remote | [Link](https://www.tumblr.com/jobs) | ? |
@@ -185,6 +188,7 @@ Co-maintainer: [@pbarry25](https://github.com/pbarry25)
 | Unit42 Palo Alto | Research | Full remote | [Link](https://jobs.jobvite.com/paloaltonetworks/jobs/all-jobs) | ? |
 | US Bank | ? | US remote | [Link](https://careers.usbank.com/global/en/search-results) | ? |
 | Vanta | Some | US remote | [Link](https://www.vanta.com/company/careers#open-roles) | ? |
+| Veridise | All | Full remote | [Link](https://veridise.com/careers/) | ? |
 | VMRay | ? | Full remote | [Link](https://vmray-gmbh.jobs.personio.de/) | ? |
 | Wells Fargo | ? | Full remote | [Link](https://www.wellsfargo.com/about/careers/) | ? |
 | Whym | All | Full remote | [Link](https://whym.breezy.hr/) | ? |
