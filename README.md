@@ -85,6 +85,7 @@ Co-maintainer: [@pbarry25](https://github.com/pbarry25)
 | GuidePoint | Some | Full remote | [Link](https://www.guidepointsecurity.com/careers/) | ? |
 | Hacktive Security | All | Full remote | [Link](https://www.hacktivesecurity.com/careers/) | Yes |
 | Heroku | Some | Full remote | [Link](https://www.heroku.com/careers/) | ? |
+| Home Depot | Some | Full remote US | [Link](https://careers.homedepot.com/) | ? |
 | Horizon3.ai | Some | Full remote US | [Link](https://www.horizon3.ai/join-our-team/) | ? |
 | Human Rights Watch | Some | Full remote | [Link](https://careers.hrw.org/) | ? |
 | Human Security | All | Full remote | [Link](https://www.humansecurity.com/company/careers) | ? |
@@ -121,6 +122,7 @@ Co-maintainer: [@pbarry25](https://github.com/pbarry25)
 | Monad Foundation | All | Full remote | [Link](https://jobs.ashbyhq.com/monad.foundation) | ? |
 | Monogram Health | All | Full remote | [Link](https://recruiting2.ultipro.com/MON1026MONOH/JobBoard/bcaf2db0-50c8-4e2f-9d65-e8e00c882a25/?q=&o=postedDateDesc&f4=Ul4V2PqKgEuQizHPFQPobw) | ? |
 | Motion | All | Full remote | [Link](https://jobs.ashbyhq.com/motion) | ? |
+| Motorola Solutions | Some | Full remote US | [Link](https://www.motorolasolutions.com/en_us/about/careers.html) | ? |
 | Mozilla | All | Full remote depending on the position | [Link](https://careers.mozilla.org/) | ? |
 | Netflix | Some | Full remote depending on the position | [Link](https://jobs.netflix.com/) | ? |
 | Netskope | Some | Full remote | [Link](https://www.netskope.com/company/careers/open-positions) | ? |
