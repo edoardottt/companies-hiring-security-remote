@@ -27,6 +27,7 @@ Co-maintainer: [@pbarry25](https://github.com/pbarry25)
 | Astronomer | Most jobs | Full remote okay | [Link](https://www.astronomer.io/careers/#openings) | ? |
 | Atlassian | Most jobs | Full remore okay | [Link](https://www.atlassian.com/company/careers/all-jobs) | ? |
 | Aurora Innovation | Product Security | US remote | [Link](https://aurora.tech/careers/) | No |
+| Babylon Labs | All | Full remote | [Link](https://babylonlabs.io/jobs) | ? |
 | bill.com |  | Some areas | [Link](https://www.bill.com/about-us/jobs) | ? |
 | Bishop Fox |  | Some areas | [Link](https://bishopfox.com/careers) | ? |
 | Bitdefender | Some | Full remote US | [Link](https://www.bitdefender.com/company/job-opportunities/) | ? |
@@ -44,6 +45,7 @@ Co-maintainer: [@pbarry25](https://github.com/pbarry25)
 | Cisco Talos | All | Full remote | [Link](https://www.talosintelligence.com/careers) | ? |
 | Cloudflare | Some | Full remote depending on the position | [Link](https://www.cloudflare.com/careers/jobs/?department=Security) | ? |
 | Coalfire Labs | ? | Full remote / Remote US | [Link](https://www.coalfire.com/Careers) | ? |
+| Coder | All | Regional remote | [Link](https://coder.com/careers) | ? |
 | CodeSignal | All | Full remote | [Link](https://codesignal.com/careers/) | ? |
 | Coinbase | All | Full remote US | [Link](https://www.coinbase.com/careers/positions) | ? |
 | Confluent | Some | Full remote | [Link](https://careers.confluent.io/) | ? |
@@ -182,6 +184,7 @@ Co-maintainer: [@pbarry25](https://github.com/pbarry25)
 | Tenable | Some Jobs | Full remote | [Link](https://www.tenable.com/careers) | ? |
 | Thirdfort | Some Jobs | UK remote | [Link](https://www.thirdfort.com/careers/) | ? |
 | ThreatMark | Some | Full remote | [Link](https://www.threatmark.com/careers/) | ? |
+| Tracebit | Some | Full remote | [Link](https://tracebit.com/careers) | ? |
 | Trail of Bits | Some areas | Full remote | [Link](https://www.trailofbits.com/careers/) | ? |
 | Trellix | Some jobs | Partially remote | [Link](https://careers.trellix.com/) | ? |
 | Tumblr | Some areas | Full remote | [Link](https://www.tumblr.com/jobs) | ? |
