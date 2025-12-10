@@ -19,6 +19,7 @@ Co-maintainer: [@pbarry25](https://github.com/pbarry25)
 | Aha! Labs | All | Regional remote | [Link](https://www.aha.io/company/careers/current-openings) | ? |
 | Alation | All | Full remote depending on the position | [Link](https://www.alation.com/careers/) | ? |
 | Altera Digital Health | Some | Regional remote | [Link](https://www.alterahealth.com/jobs) | ? |
+| Amtrak | Some | US remote | [Link](https://careers.amtrak.com/) | ? |
 | Angle Health | Some | Full remote | [Link](https://www.anglehealth.com/careers) | ? |
 | Anthropic | Some | Full remote US | [Link](https://www.anthropic.com/careers) | ? |
 | Appsecconsulting | Some jobs | Full remote okay | [Link](https://www.appsecconsulting.com/company/careers/) | ? |
@@ -70,6 +71,7 @@ Co-maintainer: [@pbarry25](https://github.com/pbarry25)
 | Dropbox | All | Full remote | [Link](https://jobs.dropbox.com/all-jobs) | ? |
 | Elastic | Some roles | Full remote | [Link](https://www.elastic.co/about/careers/#engineering) | ? |
 | Enable Security | Security | Full remote | [Link](https://de.linkedin.com/company/enablesecurity) | ? |
+| Experian | Some | US remote | [Link](https://jobs.experian.com) | ? |
 | ExtraHop | All | Full remote | [Link](https://www.extrahop.com/company/careers/) | ? |
 | Fastly | All | Full remote | [Link](https://www.fastly.com/about/careers) | ? |
 | Fieldguide | All | Full remote US | [Link](https://www.fieldguide.io/careers) | ? |
