@@ -11,41 +11,39 @@ Co-maintainer: [@pbarry25](https://github.com/pbarry25)
 ## List
 
 | Company | Areas hiring remote | Full/Regional Remote | Job Postings | Open for contractors |
-|---|---|---|---|---|
+| --- | --- | --- | --- | --- |
 | 1Password | All | Full remote | [Link](https://1password.com/careers) | ? |
-| Abnormal Security | Most jobs | Full remote okay | [Link](https://careers.abnormalsecurity.com/open-roles) | ? |
+| Abnormal Security | Most jobs | Full remote okay | [Link](https://abnormal.ai/careers/open-roles) | ? |
 | AirBnb | Some | Full remote okay | [Link](https://careers.airbnb.com/) | ? |
 | AirHouse | All | Full remote | [Link](https://www.airhouse.io/careers) | ? |
 | Aha! Labs | All | Regional remote | [Link](https://www.aha.io/company/careers/current-openings) | ? |
 | Alation | All | Full remote depending on the position | [Link](https://www.alation.com/careers/) | ? |
-| Altera Digital Health | Some | Regional remote | [Link](https://www.alterahealth.com/jobs) | ? |
+| Altera Digital Health | Some | Regional remote | [Link](https://harriscomputer.wd3.myworkdayjobs.com/Altera) | ? |
 | Amtrak | Some | US remote | [Link](https://careers.amtrak.com/) | ? |
 | Angle Health | Some | Full remote | [Link](https://www.anglehealth.com/careers) | ? |
 | Anthropic | Some | Full remote US | [Link](https://www.anthropic.com/careers) | ? |
-| Appsecconsulting | Some jobs | Full remote okay | [Link](https://www.appsecconsulting.com/company/careers/) | ? |
 | Arctic Wolf | Some | Full remote (Regional) | [Link](https://arcticwolf.com/company/careers/) | ? |
-| Arize AI | All | Full remote | [Link](https://arize.com/careers) | ? |
+| Arize AI | All | Full remote | [Link](https://arize.com/careers/) | ? |
 | Astronomer | Most jobs | Full remote okay | [Link](https://www.astronomer.io/careers/#openings) | ? |
 | Atlassian | Most jobs | Full remore okay | [Link](https://www.atlassian.com/company/careers/all-jobs) | ? |
 | Aurora Innovation | Product Security | US remote | [Link](https://aurora.tech/careers/) | No |
 | Babylon Labs | All | Full remote | [Link](https://babylonlabs.io/jobs) | ? |
-| bill.com |  | Some areas | [Link](https://www.bill.com/about-us/jobs) | ? |
+| bill.com |  | Some areas | [Link](https://www.bill.com/jobs) | ? |
 | Bishop Fox |  | Some areas | [Link](https://bishopfox.com/careers) | ? |
-| Bitdefender | Some | Full remote US | [Link](https://www.bitdefender.com/company/job-opportunities/) | ? |
-| BlackKnight |  | Some areas | [Link](https://blackknight.wd1.myworkdayjobs.com/BKC/0/refreshFacet/318c8bb6f553100021d223d9780d30be) | ? |
+| Bitdefender | Some | Full remote US | [Link](https://www.bitdefender.com/en-us/company/job-opportunities/) | ? |
 | Bravely | All | Full remote US | [Link](https://workbravely.com/careers/) | ? |
 | BreakPoint Labs | Some | Full remote | [Link](https://jobs.polymer.co/breakpointlabs) | ? |
-| Bright Security | All | Full remote | [Link](https://brightsec.com/careers/) | ? |
-| Canonical | Some | Full remote | [Link](https://www.canonical.com/careers/all-vacancies) | ? |
-| CAST AI | All | Full remote | [Link](https://castai.teamtailor.com/jobs) | ? |
-| Category Labs | Some | Full remote | [Link](https://www.category.xyz/careers) | ? |
+| Bright Security | All | Full remote | [Link](https://brightsec.com/company/careers/) | ? |
+| Canonical | Some | Full remote | [Link](https://canonical.com/careers/all) | ? |
+| CAST AI | All | Full remote | [Link](https://cast.ai/careers/) | ? |
+| Category Labs | Some | Full remote | [Link](https://www.category.xyz/category-careers) | ? |
 | Certego | Some | Full remote | [Link](https://www.certego.net/company/careers/) | ? |
 | Clio | Some | Regional remote | [Link](https://www.clio.com/about/careers/) | ? |
 | Cimpress | All | Full remote | [Link](https://jobs.vista.com/Cimpress-Technology/go/CT/7796800/) | ? |
-| Cisco | Some | Full remote | [Link](https://jobs.cisco.com/jobs/SearchJobs) | ? |
+| Cisco | Some | Full remote | [Link](https://careers.cisco.com/global/en) | ? |
 | Cisco Talos | All | Full remote | [Link](https://www.talosintelligence.com/careers) | ? |
 | Cloudflare | Some | Full remote depending on the position | [Link](https://www.cloudflare.com/careers/jobs/?department=Security) | ? |
-| Coalfire Labs | ? | Full remote / Remote US | [Link](https://www.coalfire.com/Careers) | ? |
+| Coalfire Labs | ? | Full remote / Remote US | [Link](https://coalfire.com/about/careers) | ? |
 | Coder | All | Regional remote | [Link](https://coder.com/careers) | ? |
 | CodeSignal | All | Full remote | [Link](https://codesignal.com/careers/) | ? |
 | Coinbase | All | Full remote US | [Link](https://www.coinbase.com/careers/positions) | ? |
@@ -53,12 +51,10 @@ Co-maintainer: [@pbarry25](https://github.com/pbarry25)
 | Contrast Security | Some | Full remote | [Link](https://www.contrastsecurity.com/contrast-careers) | ? |
 | Corelight | Multiple | Full remote | [Link](https://corelight.com/company/careers/) | ? |
 | CrowdStrike | Most jobs | Full remote / Remote US | [Link](https://www.crowdstrike.com/careers/) | ? |
-| Cruise | All | Full remote | [Link](https://getcruise.com/careers/jobs/) | ? |
 | CyberArk | Some | Full remote US | [Link](https://www.cyberark.com/careers/) | ? |
 | Datadog | Some | Full remote | [Link](https://careers.datadoghq.com/remote/) | ? |
 | DataDome | Some | Full remote (Based in France mainly, some in US) | [Link](https://www.welcometothejungle.com/en/companies/datadome/jobs) | ? |
-| DaySlice | All | Full remote | [Link](https://hello.dayslice.com/about-dayslice) | ? |
-| DCSO | All | Full remote | [Link](https://dcso.de/de/talente/) | ? |
+| DCSO | All | Full remote | [Link](https://dcso.de/en/talented-people/) | ? |
 | Deepwatch | Some | Full remote | [Link](https://www.deepwatch.com/jobs/) | ? |
 | Dell Secure Works | Some | Regional remote | [Link](https://jobs.dell.com) | ? |
 | Deutsche Bahn / Systel | Some | Full remote (mostly Germany) | [Link](https://karriere.deutschebahn.com/) | ? |
