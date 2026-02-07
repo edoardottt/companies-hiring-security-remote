@@ -65,6 +65,7 @@ Co-maintainer: [@pbarry25](https://github.com/pbarry25)
 | Doyensec | Application Security Engineer | Full remote | [Link](https://www.careers-page.com/doyensec-llc) | ? |
 | Dragos | Some | US remote | [Link](https://www.dragos.com/careers/) | ? |
 | Dropbox | All | Full remote | [Link](https://jobs.dropbox.com/all-jobs) | ? |
+| DuckDuckGo | All | Full remote | [Link](https://duckduckgo.com/hiring) | ? |
 | Elastic | Some roles | Full remote | [Link](https://www.elastic.co/about/careers/#engineering) | ? |
 | Enable Security | Security | Full remote | [Link](https://de.linkedin.com/company/enablesecurity) | ? |
 | Experian | Some | US remote | [Link](https://jobs.experian.com) | ? |
@@ -180,6 +181,7 @@ Co-maintainer: [@pbarry25](https://github.com/pbarry25)
 | Teleport | Some | Full remote | [Link](https://jobs.lever.co/teleport) | ? |
 | Temporal | Some Jobs | US remote | [Link](https://temporal.io/careers) | ? |
 | Tenable | Some Jobs | Full remote | [Link](https://www.tenable.com/careers) | ? |
+| Thinkst | All | Full remote | [Link](https://canary.tools/hiring) | ? |
 | Thirdfort | Some Jobs | UK remote | [Link](https://www.thirdfort.com/careers/) | ? |
 | ThreatMark | Some | Full remote | [Link](https://www.threatmark.com/careers/) | ? |
 | Tracebit | Some | Full remote | [Link](https://tracebit.com/careers) | ? |
