@@ -68,6 +68,7 @@ Co-maintainer: [@pbarry25](https://github.com/pbarry25)
 | DuckDuckGo | All | Full remote | [Link](https://duckduckgo.com/hiring) | ? |
 | Elastic | Some roles | Full remote | [Link](https://www.elastic.co/about/careers/#engineering) | ? |
 | Enable Security | Security | Full remote | [Link](https://de.linkedin.com/company/enablesecurity) | ? |
+| eXp World Holdings | Some roles | Full remote | [Link](https://expworldholdings.com/careers/) | ? |
 | Experian | Some | US remote | [Link](https://jobs.experian.com) | ? |
 | ExtraHop | All | Full remote | [Link](https://www.extrahop.com/company/careers/) | ? |
 | Fastly | All | Full remote | [Link](https://www.fastly.com/about/careers) | ? |
@@ -163,6 +164,7 @@ Co-maintainer: [@pbarry25](https://github.com/pbarry25)
 | Reddit | All | Full remote US okay | [Link](https://www.redditinc.com/careers/) | ? |
 | ReversingLabs | ? | ? | [Link](https://reversinglabs.workable.com) | ? |
 | Rill Data | All | Full remote / Remote US | [Link](https://www.rilldata.com/careers) | ? |
+| Roboflow | Some | Full remote | [Link](https://roboflow.com/careers) | ? |
 | Roq.ad | All | Full remote | [Link](https://www.roq.ad/careers/) | ? |
 | runZero | All | Full remote | [Link](https://www.runzero.com/about/careers/) | ? |
 | Salesforce | Some | Full remote depending on the position | [Link](https://careers.salesforce.com/en/jobs/?search=&location=Remote&pagesize=200#results) | ? |
